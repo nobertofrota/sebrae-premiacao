@@ -6,7 +6,6 @@ const { calculateDashboard, compare, filterRecords, getYears } = require('./src/
 
 const root = __dirname;
 const sourcePath = path.join(root, 'PREMIO SEBRAE - CONSOLIDADO OFICIAL.csv');
-const dataPath = path.join(root, 'data', 'normalized.json');
 let dataPackage;
 let allRecords = [];
 let sourceVersion = '';
@@ -18,7 +17,7 @@ function getSourceVersion() {
 }
 
 function importLatestData() {
-  const result = importCsv({ inputPath: sourcePath, outputPath: dataPath, logPath: path.join(root, 'data', 'import.log') });
+  const result = importCsv({ inputPath: sourcePath });
   dataPackage = result;
   allRecords = result.records;
   sourceVersion = getSourceVersion();

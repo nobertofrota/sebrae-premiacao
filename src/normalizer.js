@@ -102,10 +102,14 @@ function normalizeCsv(csvText) {
 
 function importCsv({ inputPath, outputPath, logPath }) {
   const result = normalizeCsv(fs.readFileSync(inputPath, 'utf8'));
-  fs.mkdirSync(path.dirname(outputPath), { recursive: true });
-  fs.mkdirSync(path.dirname(logPath), { recursive: true });
-  fs.writeFileSync(outputPath, JSON.stringify({ generatedAt: new Date().toISOString(), ...result }, null, 2));
-  fs.writeFileSync(logPath, result.log.map((item) => JSON.stringify(item)).join('\n') + (result.log.length ? '\n' : ''));
+  if (outputPath) {
+    fs.mkdirSync(path.dirname(outputPath), { recursive: true });
+    fs.writeFileSync(outputPath, JSON.stringify({ generatedAt: new Date().toISOString(), ...result }, null, 2));
+  }
+  if (logPath) {
+    fs.mkdirSync(path.dirname(logPath), { recursive: true });
+    fs.writeFileSync(logPath, result.log.map((item) => JSON.stringify(item)).join('\n') + (result.log.length ? '\n' : ''));
+  }
   return result;
 }
 
