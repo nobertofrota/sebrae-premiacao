@@ -1,0 +1,351 @@
+/* Layout compacto: todo o conteúdo permanece dentro da viewport. */
+html,
+body {
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+.app-shell,
+.panel,
+.dashboard-grid,
+.lower-grid,
+.section-heading,
+.table-tools {
+  min-width: 0;
+}
+
+.chart-wrap,
+.table-scroll,
+.matrix-scroll,
+.timeline {
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+.table-scroll table,
+.retention-table,
+.matrix-table {
+  width: 100%;
+  min-width: 0;
+  table-layout: fixed;
+}
+
+.table-scroll th,
+.table-scroll td,
+.retention-table th,
+.retention-table td {
+  white-space: normal;
+  overflow-wrap: anywhere;
+  word-break: break-word;
+  padding: 8px 6px;
+}
+
+.table-scroll th {
+  font-size: 9px;
+  line-height: 1.2;
+}
+
+.matrix-scroll {
+  max-height: 480px;
+}
+
+.dashboard-grid > .chart-card:has(#matrixChart) .matrix-scroll {
+  max-height: 640px;
+}
+
+.matrix-table th,
+.matrix-table td {
+  min-width: 0;
+  padding: 6px 3px;
+  overflow-wrap: anywhere;
+  word-break: break-word;
+  font-size: 10px;
+}
+
+.matrix-table th:first-child,
+.matrix-table td:first-child {
+  width: 22%;
+  min-width: 0;
+}
+
+.matrix-table th:not(:first-child),
+.matrix-table td:not(:first-child) {
+  width: 5.57%;
+}
+
+.compare-lists {
+  min-width: 0;
+}
+
+.compare-list ul {
+  overflow-x: hidden;
+}
+
+.segment-card {
+  align-self: start;
+}
+
+.segment-card .chart-wrap {
+  min-height: 0;
+}
+
+.segment-axis {
+  fill: var(--muted);
+  font-size: 14px;
+  font-weight: 700;
+}
+
+.segment-value {
+  fill: var(--muted);
+  font-size: 13px;
+  font-weight: 700;
+}
+
+.top-card {
+  align-self: start;
+}
+
+.top-card .chart-wrap {
+  min-height: 0;
+}
+
+.movement-card {
+  align-self: start;
+}
+
+.movement-card .chart-wrap {
+  min-height: 0;
+}
+
+.type-card .chart-wrap svg {
+  height: 260px;
+  width: 100%;
+}
+
+.type-card {
+  height: 410px !important;
+  min-height: 0 !important;
+  max-height: 410px !important;
+  align-self: start !important;
+  overflow: hidden;
+}
+
+.type-card .chart-wrap {
+  height: 260px;
+  min-height: 260px;
+  overflow: hidden;
+}
+
+.type-card .legend {
+  max-height: 52px;
+  overflow: hidden;
+}
+
+/* Cards in the same grid row share the same height. */
+.dashboard-grid > .chart-card,
+.segment-card,
+.movement-card {
+  align-self: stretch;
+}
+
+.type-card {
+  height: auto !important;
+  max-height: none !important;
+}
+
+.ranking-label {
+  fill: var(--muted);
+  font-size: 13px;
+  font-weight: 700;
+}
+
+.ranking-value {
+  fill: var(--muted);
+  font-size: 13px;
+  font-weight: 700;
+}
+
+@media (max-width: 1050px) {
+  .app-shell {
+    padding-left: 18px;
+    padding-right: 18px;
+  }
+
+  .table-scroll th,
+  .table-scroll td {
+    font-size: 10px;
+    padding-left: 4px;
+    padding-right: 4px;
+  }
+}
+
+@media (max-width: 700px) {
+  .app-shell {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .hero,
+  .section-heading,
+  .compare-controls {
+    min-width: 0;
+  }
+
+  .hero h1 {
+    font-size: clamp(23px, 8vw, 32px);
+  }
+
+  .hero-meta,
+  .hero-copy,
+  .card-hint {
+    white-space: normal;
+    max-width: 100%;
+  }
+
+  .section-heading {
+    flex-wrap: wrap;
+  }
+
+  .section-heading > * {
+    max-width: 100%;
+  }
+
+  .inline-search {
+    max-width: 100%;
+  }
+
+  .chart-wrap {
+    min-height: 190px;
+  }
+
+  .dashboard-grid > .chart-card:has(#matrixChart) .matrix-scroll {
+    max-height: 520px;
+  }
+
+  .type-card {
+    height: auto;
+    max-height: none;
+  }
+
+  .segment-axis {
+    font-size: 13px;
+  }
+
+  .segment-value {
+    font-size: 12px;
+  }
+
+  .ranking-label {
+    font-size: 13px;
+  }
+
+  .ranking-value {
+    font-size: 12px;
+  }
+
+  .chart-wrap svg {
+    max-width: 100%;
+  }
+
+  .retention-table th,
+  .retention-table td {
+    font-size: 9px;
+    padding: 6px 2px;
+  }
+
+  .matrix-table th,
+  .matrix-table td {
+    font-size: 8px;
+    padding: 5px 1px;
+  }
+
+  .matrix-table th:first-child,
+  .matrix-table td:first-child {
+    width: 24%;
+    font-size: 9px;
+  }
+
+  .matrix-table th:not(:first-child),
+  .matrix-table td:not(:first-child) {
+    width: 5.43%;
+  }
+
+  .matrix-dot {
+    width: 11px;
+    height: 11px;
+    border-radius: 3px;
+  }
+
+  .table-panel .table-scroll {
+    overflow: visible;
+  }
+
+  .table-panel table,
+  .table-panel tbody,
+  .table-panel tr,
+  .table-panel td {
+    display: block;
+  }
+
+  .table-panel thead {
+    display: none;
+  }
+
+  .table-panel tbody tr {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 6px 10px;
+    padding: 10px 0;
+    border-bottom: 1px solid var(--line);
+  }
+
+  .table-panel tbody td {
+    border: 0;
+    padding: 0;
+    min-width: 0;
+    white-space: normal;
+    font-size: 10px;
+  }
+
+  .table-panel tbody td::before {
+    display: block;
+    margin-bottom: 2px;
+    color: var(--muted);
+    font-size: 8px;
+    font-weight: 800;
+    letter-spacing: .04em;
+    text-transform: uppercase;
+  }
+
+  .table-panel tbody td:nth-child(1)::before { content: "Empresa"; }
+  .table-panel tbody td:nth-child(2)::before { content: "Tipo"; }
+  .table-panel tbody td:nth-child(3)::before { content: "Primeira"; }
+  .table-panel tbody td:nth-child(4)::before { content: "Última"; }
+  .table-panel tbody td:nth-child(5)::before { content: "Quantidade de Prêmios"; }
+  .table-panel tbody td:nth-child(6)::before { content: "Maior sequência"; }
+  .table-panel tbody td:nth-child(7)::before { content: "Períodos de participação"; }
+
+  .table-panel tbody td:nth-child(1),
+  .table-panel tbody td:nth-child(2),
+  .table-panel tbody td:nth-child(7) {
+    grid-column: 1 / -1;
+  }
+
+  .table-tools {
+    flex-wrap: wrap;
+  }
+
+  .table-tools .inline-search {
+    flex-basis: 100%;
+    margin-right: 0;
+  }
+
+  .compare-controls {
+    flex-wrap: wrap;
+  }
+
+  .compare-controls label {
+    min-width: 0;
+    flex: 1 1 42%;
+  }
+}

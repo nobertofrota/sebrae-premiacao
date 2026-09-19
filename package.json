@@ -1,0 +1,14 @@
+{
+  "name": "premio-sebrae-dashboard",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Dashboard analítico histórico do Prêmio Sebrae",
+  "scripts": {
+    "import": "node scripts/import-data.js",
+    "start": "node server.js",
+    "test": "node --test --test-isolation=none"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

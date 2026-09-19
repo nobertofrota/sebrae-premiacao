@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Prêmio Sebrae · Participações 2010–2025</title>
+  <meta name="description" content="Dashboard analítico das empresas participantes do Prêmio Sebrae entre 2010 e 2018.">
+    <link rel="stylesheet" href="/styles.css">
+    <link rel="stylesheet" href="/responsive.css">
+</head>
+<body>
+  <div class="app-shell">
+    <header class="hero">
+      <div class="hero-logo"><img src="/sebrae-logo.png" alt="Sebrae"></div>
+      <div class="hero-content">
+        <p class="eyebrow">PRÊMIO SEBRAE · BASE CONSOLIDADA 2010—2025</p>
+        <h1>Participações que contam histórias</h1>
+      </div>
+    </header>
+
+    <main>
+      <section class="panel filters-panel" aria-labelledby="filters-title">
+        <div class="section-heading compact"><div><p class="eyebrow">EXPLORAÇÃO</p><h2 id="filters-title">Filtros globais</h2></div><button class="button button-ghost" id="clearFilters">Limpar filtros</button></div>
+        <div class="period-mode" role="group" aria-label="Modo de período"><span class="filter-label">Modo de período</span><button id="rangeMode" class="period-mode-button active" type="button" aria-pressed="true">Intervalo</button><button id="specificMode" class="period-mode-button" type="button" aria-pressed="false">Período específico</button></div>
+        <div class="filter-grid">
+          <label>De <select id="fromYear"></select></label>
+          <label>Até <select id="toYear"></select></label>
+          <label>Período específico <select id="specificYear"></select></label>
+          <label>Empresa <select id="companySelect"><option value="">Todas as empresas</option></select></label>
+          <label class="wide">Buscar empresa <input id="companySearch" type="search" placeholder="Digite parte do nome…"></label>
+          <label>Recorrência <select id="recurrence"><option value="all">Todas</option><option value="recurring">Recorrentes (2+ períodos)</option><option value="nonRecurring">Não recorrentes</option></select></label>
+          <label>Min. participações <input id="minParticipations" type="number" min="0" step="1" value="0"></label>
+        </div>
+        <div class="type-filter"><span class="filter-label">Tipos</span><div id="typeOptions" class="type-options"></div></div>
+        <div id="activeChips" class="active-chips" aria-live="polite"></div>
+      </section>
+
+      <div id="errorState" class="empty-state error-state" hidden></div>
+
+      <section class="panel top-companies-panel" aria-labelledby="top-companies-title">
+        <div class="section-heading">
+          <div><p class="eyebrow">DESTAQUES</p><h2 id="top-companies-title">Ranking das empresas mais premiadas</h2><p class="muted top-companies-subtitle">Top 10 posições · empates incluídos</p></div>
+          <span class="card-hint">Ordenado por quantidade de prêmios</span>
+        </div>
+        <div id="topCompanies" class="top-companies-content"></div>
+      </section>
+
+      <section class="kpi-grid" id="kpiGrid" aria-label="Indicadores principais"></section>
+
+      <section class="dashboard-grid">
+        <article class="panel chart-card span-2"><div class="section-heading"><div><p class="eyebrow">SÉRIE HISTÓRICA</p><h2>Evolução por período</h2></div><span class="card-hint">Clique em um período para filtrar</span></div><div id="annualChart" class="chart-wrap"></div></article>
+        <article class="panel chart-card segment-card"><div class="section-heading"><div><p class="eyebrow">MIX DE SEGMENTOS</p><h2>Distribuição por tipo</h2></div></div><div id="segmentChart" class="chart-wrap"></div></article>
+        <article class="panel chart-card type-card span-2"><div class="section-heading"><div><p class="eyebrow">ANO × TIPO</p><h2>Evolução por segmento</h2></div><span class="card-hint">Clique na legenda para ocultar</span></div><div id="typeChart" class="chart-wrap"></div><div id="typeLegend" class="legend"></div></article>
+        <article class="panel chart-card movement-card"><div class="section-heading"><div><p class="eyebrow">ENTRADA E RETENÇÃO</p><h2>Novas × recorrentes</h2></div></div><div id="movementChart" class="chart-wrap"></div></article>
+        <article class="panel chart-card span-2"><div class="section-heading"><div><p class="eyebrow">CONTINUIDADE</p><h2>Matriz empresa × período</h2></div><input id="matrixSearch" class="inline-search" type="search" placeholder="Buscar empresa na matriz…"></div><div id="matrixChart" class="matrix-scroll"></div></article>
+        <article class="panel chart-card span-2"><div class="section-heading"><div><p class="eyebrow">CORRELAÇÃO</p><h2>Retenção entre períodos</h2></div><span class="card-hint">Percentual sobre o período de origem</span></div><div id="retentionChart" class="table-scroll"></div></article>
+      </section>
+
+      <section class="lower-grid">
+        <article class="panel profile-panel"><div class="section-heading"><div><p class="eyebrow">DETALHE</p><h2>Perfil da empresa</h2></div></div><div id="profileView" class="profile-empty">Selecione uma empresa em um gráfico ou na matriz para ver seu histórico completo.</div></article>
+        <article class="panel compare-panel"><div class="section-heading"><div><p class="eyebrow">CONTRASTE</p><h2>Comparar períodos</h2></div></div><div class="compare-controls"><label>Período A <select id="compareA"></select></label><span>→</span><label>Período B <select id="compareB"></select></label></div><div id="compareView"></div></article>
+      </section>
+
+      <section class="panel table-panel"><div class="section-heading"><div><p class="eyebrow">DADOS CONSOLIDADOS</p><h2>Tabela analítica</h2><p class="muted">Uma linha por empresa no recorte atual. Duplicidades exatas já foram removidas, em ordem decrescente por Quantidade de Prêmios.</p></div><button id="exportCsv" class="button button-primary">Exportar CSV</button></div><div class="table-tools"><input id="tableSearch" class="inline-search" type="search" placeholder="Pesquisar empresa…"><label>Linhas <select id="pageSize"><option>10</option><option selected>25</option><option>50</option><option>100</option></select></label><span id="tableCount" class="muted"></span></div><div class="table-scroll"><table><thead><tr id="tableHead"></tr></thead><tbody id="tableBody"></tbody></table></div><div id="pagination" class="pagination"></div></section>
+
+      <section class="panel insights-panel"><div class="section-heading"><div><p class="eyebrow">LEITURA RÁPIDA</p><h2>Principais insights</h2></div></div><div id="insights" class="insight-list"></div></section>
+    </main>
+    <footer><span>Prêmio Sebrae · base normalizada e deduplicada</span><span>Atualização analítica em tempo real conforme os filtros</span></footer>
+  </div>
+  <div id="awardsModal" class="modal-backdrop" hidden>
+    <section class="awards-modal" role="dialog" aria-modal="true" aria-labelledby="awards-modal-title">
+      <div class="awards-modal-header"><div><p class="eyebrow">DESTAQUE</p><h2 id="awards-modal-title">Empresas com 10 ou mais prêmios</h2></div><button id="closeAwardsModal" class="modal-close" type="button" aria-label="Fechar">×</button></div>
+      <p id="awards-modal-summary" class="muted"></p>
+      <div id="awards-modal-body" class="awards-modal-body"></div>
+    </section>
+  </div>
+  <div id="tooltip" class="tooltip" role="tooltip"></div>
+  <script src="/app.js"></script>
+</body>
+</html>
