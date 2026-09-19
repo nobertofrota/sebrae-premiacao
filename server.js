@@ -62,4 +62,4 @@ const server = http.createServer((req, res) => {
 
 const port = Number(process.env.PORT) || 3000;
 if (require.main === module) server.listen(port, () => console.log(`Dashboard disponível em http://localhost:${port}`));
-module.exports = { server };
+module.exports = server;
