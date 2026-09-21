@@ -26,11 +26,10 @@
           <label>De <select id="fromYear"></select></label>
           <label>Até <select id="toYear"></select></label>
           <label>Período específico <select id="specificYear"></select></label>
-          <label>Empresa <select id="companySelect"><option value="">Todas as empresas</option></select></label>
-          <label class="wide">Buscar empresa <input id="companySearch" type="search" placeholder="Digite parte do nome…"></label>
           <label>Recorrência <select id="recurrence"><option value="all">Todas</option><option value="recurring">Recorrentes (2+ períodos)</option><option value="nonRecurring">Não recorrentes</option></select></label>
           <label>Min. participações <input id="minParticipations" type="number" min="0" step="1" value="0"></label>
         </div>
+        <div hidden aria-hidden="true"><select id="companySelect"><option value="">Todas as empresas</option></select><input id="companySearch" type="search"></div>
         <div class="type-filter"><span class="filter-label">Tipos</span><div id="typeOptions" class="type-options"></div></div>
         <div id="activeChips" class="active-chips" aria-live="polite"></div>
       </section>

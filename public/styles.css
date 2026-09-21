@@ -464,3 +464,19 @@ select:disabled, input:disabled { color: #91a0aa; background: #f3f6f8; cursor: n
   .tie-summary .tie-toggle { grid-column: 1 / -1; justify-self: start; }
   .tie-group-row .tie-expanded-list { margin-left: 10px; margin-right: 10px; }
 }
+
+.table-panel .table-scroll > table > thead > tr > th:nth-child(3),
+.table-panel .table-scroll > table > thead > tr > th:nth-child(4),
+.table-panel .table-scroll > table > thead > tr > th:nth-child(5),
+.table-panel .table-scroll > table > thead > tr > th:nth-child(6),
+.table-panel .table-scroll > table > tbody > tr > td:nth-child(3),
+.table-panel .table-scroll > table > tbody > tr > td:nth-child(4),
+.table-panel .table-scroll > table > tbody > tr > td:nth-child(5),
+.table-panel .table-scroll > table > tbody > tr > td:nth-child(6) {
+  text-align: center;
+}
+
+.retention-table th:last-child,
+.retention-table td:last-child {
+  display: none;
+}
