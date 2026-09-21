@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T02:55:22.740Z",
+  "generatedAt": "2026-09-21T22:18:19.949Z",
   "records": [
     {
       "id": "cenario ideal hospedagem|2022|hospedagem",
@@ -1286,18 +1286,6 @@
       "tipoKey": "alimentacao fora do lar"
     },
     {
-      "id": "barraca america do sol|2011 / 2012|alimentacao fora do lar",
-      "empresa": "BARRACA AMÉRICA DO SOL",
-      "empresaKey": "barraca america do sol",
-      "ano": "2011 / 2012",
-      "periodo": "2011 / 2012",
-      "periodoKey": "2011 / 2012",
-      "periodoInicio": 2011,
-      "periodoFim": 2012,
-      "tipo": "ALIMENTAÇÃO FORA DO LAR",
-      "tipoKey": "alimentacao fora do lar"
-    },
-    {
       "id": "barraca america do sol|2023|alimentacao fora do lar",
       "empresa": "BARRACA AMÉRICA DO SOL",
       "empresaKey": "barraca america do sol",
@@ -1406,16 +1394,16 @@
       "tipoKey": "alimentacao fora do lar"
     },
     {
-      "id": "barraca america do sol|2014|hospedagem",
+      "id": "barraca america do sol|2011 / 2012|alimentacao fora do lar",
       "empresa": "BARRACA AMÉRICA DO SOL",
       "empresaKey": "barraca america do sol",
-      "ano": "2014",
-      "periodo": "2014",
-      "periodoKey": "2014",
-      "periodoInicio": 2014,
-      "periodoFim": 2014,
-      "tipo": "HOSPEDAGEM",
-      "tipoKey": "hospedagem"
+      "ano": "2011 / 2012",
+      "periodo": "2011 / 2012",
+      "periodoKey": "2011 / 2012",
+      "periodoInicio": 2011,
+      "periodoFim": 2012,
+      "tipo": "ALIMENTAÇÃO FORA DO LAR",
+      "tipoKey": "alimentacao fora do lar"
     },
     {
       "id": "barraca atlantidz|2014|alimentacao fora do lar",
@@ -23330,18 +23318,6 @@
       "tipoKey": "alimentacao fora do lar"
     },
     {
-      "id": "taberna da carne|2016|alimentacao fora do lar",
-      "empresa": "TABERNA DA CARNE",
-      "empresaKey": "taberna da carne",
-      "ano": "2016",
-      "periodo": "2016",
-      "periodoKey": "2016",
-      "periodoInicio": 2016,
-      "periodoFim": 2016,
-      "tipo": "ALIMENTAÇÃO FORA DO LAR",
-      "tipoKey": "alimentacao fora do lar"
-    },
-    {
       "id": "taberna da carne|2014|alimentacao fora do lar",
       "empresa": "TABERNA DA CARNE",
       "empresaKey": "taberna da carne",
@@ -23362,6 +23338,18 @@
       "periodoKey": "2013",
       "periodoInicio": 2013,
       "periodoFim": 2013,
+      "tipo": "ALIMENTAÇÃO FORA DO LAR",
+      "tipoKey": "alimentacao fora do lar"
+    },
+    {
+      "id": "taberna da carne|2016|alimentacao fora do lar",
+      "empresa": "TABERNA DA CARNE",
+      "empresaKey": "taberna da carne",
+      "ano": "2016",
+      "periodo": "2016",
+      "periodoKey": "2016",
+      "periodoInicio": 2016,
+      "periodoFim": 2016,
       "tipo": "ALIMENTAÇÃO FORA DO LAR",
       "tipoKey": "alimentacao fora do lar"
     },
@@ -25357,17 +25345,7 @@
       }
     },
     {
-      "line": 120,
-      "action": "deduplicated",
-      "reason": "combinação EMPRESA+PERÍODO+TIPO repetida após normalização",
-      "original": {
-        "empresa": "BARRACA AMÉRICA DO SOL",
-        "ano": "2011 / 2012",
-        "tipo": "ALIMENTAÇÃO FORA DO LAR"
-      }
-    },
-    {
-      "line": 121,
+      "line": 119,
       "action": "deduplicated",
       "reason": "combinação EMPRESA+PERÍODO+TIPO repetida após normalização",
       "original": {
@@ -25377,7 +25355,7 @@
       }
     },
     {
-      "line": 192,
+      "line": 190,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -25392,7 +25370,7 @@
       }
     },
     {
-      "line": 203,
+      "line": 201,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -25407,7 +25385,7 @@
       }
     },
     {
-      "line": 213,
+      "line": 211,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -25422,7 +25400,7 @@
       }
     },
     {
-      "line": 217,
+      "line": 215,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -25437,7 +25415,7 @@
       }
     },
     {
-      "line": 232,
+      "line": 230,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -25452,7 +25430,7 @@
       }
     },
     {
-      "line": 277,
+      "line": 275,
       "action": "deduplicated",
       "reason": "combinação EMPRESA+PERÍODO+TIPO repetida após normalização",
       "original": {
@@ -25462,7 +25440,7 @@
       }
     },
     {
-      "line": 332,
+      "line": 330,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -25477,7 +25455,7 @@
       }
     },
     {
-      "line": 338,
+      "line": 336,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -25492,7 +25470,7 @@
       }
     },
     {
-      "line": 347,
+      "line": 345,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -25507,7 +25485,7 @@
       }
     },
     {
-      "line": 348,
+      "line": 346,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -25522,7 +25500,7 @@
       }
     },
     {
-      "line": 376,
+      "line": 374,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -25537,7 +25515,7 @@
       }
     },
     {
-      "line": 384,
+      "line": 382,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -25552,7 +25530,7 @@
       }
     },
     {
-      "line": 386,
+      "line": 384,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -25567,7 +25545,7 @@
       }
     },
     {
-      "line": 389,
+      "line": 387,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -25582,7 +25560,7 @@
       }
     },
     {
-      "line": 394,
+      "line": 392,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -25597,7 +25575,7 @@
       }
     },
     {
-      "line": 395,
+      "line": 393,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -25612,7 +25590,7 @@
       }
     },
     {
-      "line": 405,
+      "line": 403,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -25627,7 +25605,7 @@
       }
     },
     {
-      "line": 469,
+      "line": 467,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -25642,7 +25620,7 @@
       }
     },
     {
-      "line": 475,
+      "line": 473,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -25657,7 +25635,7 @@
       }
     },
     {
-      "line": 494,
+      "line": 492,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -25672,7 +25650,7 @@
       }
     },
     {
-      "line": 500,
+      "line": 498,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -25687,7 +25665,7 @@
       }
     },
     {
-      "line": 514,
+      "line": 512,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -25702,7 +25680,7 @@
       }
     },
     {
-      "line": 525,
+      "line": 523,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -25717,7 +25695,7 @@
       }
     },
     {
-      "line": 528,
+      "line": 526,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -25732,7 +25710,7 @@
       }
     },
     {
-      "line": 536,
+      "line": 534,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -25747,25 +25725,25 @@
       }
     },
     {
+      "line": 545,
+      "action": "corrected",
+      "reason": "trim/canonicalização de campo",
+      "original": {
+        "empresa": "COMPLEXO MA",
+        "ano": "2022",
+        "tipo": "SERVIÇOS DE SAUDE"
+      },
+      "normalized": {
+        "empresa": "COMPLEXO MA",
+        "periodo": "2022",
+        "tipo": "SERVIÇOS DE SAÚDE"
+      }
+    },
+    {
       "line": 547,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
-        "empresa": "COMPLEXO MA",
-        "ano": "2022",
-        "tipo": "SERVIÇOS DE SAUDE"
-      },
-      "normalized": {
-        "empresa": "COMPLEXO MA",
-        "periodo": "2022",
-        "tipo": "SERVIÇOS DE SAÚDE"
-      }
-    },
-    {
-      "line": 549,
-      "action": "corrected",
-      "reason": "trim/canonicalização de campo",
-      "original": {
         "empresa": "COMPLEXO METABOLIC",
         "ano": "2022",
         "tipo": "SERVIÇOS DE SAUDE"
@@ -25777,7 +25755,7 @@
       }
     },
     {
-      "line": 561,
+      "line": 559,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -25792,7 +25770,7 @@
       }
     },
     {
-      "line": 564,
+      "line": 562,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -25807,7 +25785,7 @@
       }
     },
     {
-      "line": 582,
+      "line": 580,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -25822,7 +25800,7 @@
       }
     },
     {
-      "line": 605,
+      "line": 603,
       "action": "deduplicated",
       "reason": "combinação EMPRESA+PERÍODO+TIPO repetida após normalização",
       "original": {
@@ -25832,7 +25810,7 @@
       }
     },
     {
-      "line": 644,
+      "line": 642,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -25847,7 +25825,7 @@
       }
     },
     {
-      "line": 647,
+      "line": 645,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -25862,7 +25840,7 @@
       }
     },
     {
-      "line": 661,
+      "line": 659,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -25877,7 +25855,7 @@
       }
     },
     {
-      "line": 662,
+      "line": 660,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -25892,7 +25870,7 @@
       }
     },
     {
-      "line": 669,
+      "line": 667,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -25907,7 +25885,7 @@
       }
     },
     {
-      "line": 676,
+      "line": 674,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -25922,7 +25900,7 @@
       }
     },
     {
-      "line": 679,
+      "line": 677,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -25937,7 +25915,7 @@
       }
     },
     {
-      "line": 726,
+      "line": 724,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -25952,25 +25930,25 @@
       }
     },
     {
+      "line": 729,
+      "action": "corrected",
+      "reason": "trim/canonicalização de campo",
+      "original": {
+        "empresa": "FARMÁCIA ETHICALL",
+        "ano": "2022",
+        "tipo": "SERVIÇOS DE SAUDE"
+      },
+      "normalized": {
+        "empresa": "FARMÁCIA ETHICALL",
+        "periodo": "2022",
+        "tipo": "SERVIÇOS DE SAÚDE"
+      }
+    },
+    {
       "line": 731,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
-        "empresa": "FARMÁCIA ETHICALL",
-        "ano": "2022",
-        "tipo": "SERVIÇOS DE SAUDE"
-      },
-      "normalized": {
-        "empresa": "FARMÁCIA ETHICALL",
-        "periodo": "2022",
-        "tipo": "SERVIÇOS DE SAÚDE"
-      }
-    },
-    {
-      "line": 733,
-      "action": "corrected",
-      "reason": "trim/canonicalização de campo",
-      "original": {
         "empresa": "FARMÁCIA FÓRMULA VERDE",
         "ano": "2022",
         "tipo": "SERVIÇOS DE SAUDE"
@@ -25982,7 +25960,7 @@
       }
     },
     {
-      "line": 738,
+      "line": 736,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -25997,7 +25975,7 @@
       }
     },
     {
-      "line": 747,
+      "line": 745,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26012,7 +25990,7 @@
       }
     },
     {
-      "line": 756,
+      "line": 754,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26027,7 +26005,7 @@
       }
     },
     {
-      "line": 759,
+      "line": 757,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26042,7 +26020,7 @@
       }
     },
     {
-      "line": 764,
+      "line": 762,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26057,7 +26035,7 @@
       }
     },
     {
-      "line": 765,
+      "line": 763,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26072,7 +26050,7 @@
       }
     },
     {
-      "line": 766,
+      "line": 764,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26087,7 +26065,7 @@
       }
     },
     {
-      "line": 807,
+      "line": 805,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26102,7 +26080,7 @@
       }
     },
     {
-      "line": 808,
+      "line": 806,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26117,7 +26095,7 @@
       }
     },
     {
-      "line": 811,
+      "line": 809,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26132,7 +26110,7 @@
       }
     },
     {
-      "line": 816,
+      "line": 814,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26147,7 +26125,7 @@
       }
     },
     {
-      "line": 820,
+      "line": 818,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26162,7 +26140,7 @@
       }
     },
     {
-      "line": 821,
+      "line": 819,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26177,7 +26155,7 @@
       }
     },
     {
-      "line": 823,
+      "line": 821,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26192,7 +26170,7 @@
       }
     },
     {
-      "line": 852,
+      "line": 850,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26207,7 +26185,7 @@
       }
     },
     {
-      "line": 855,
+      "line": 853,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26222,7 +26200,7 @@
       }
     },
     {
-      "line": 858,
+      "line": 856,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26237,7 +26215,7 @@
       }
     },
     {
-      "line": 878,
+      "line": 876,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26252,7 +26230,7 @@
       }
     },
     {
-      "line": 881,
+      "line": 879,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26267,7 +26245,7 @@
       }
     },
     {
-      "line": 890,
+      "line": 888,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26282,7 +26260,7 @@
       }
     },
     {
-      "line": 894,
+      "line": 892,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26297,7 +26275,7 @@
       }
     },
     {
-      "line": 901,
+      "line": 899,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26312,7 +26290,7 @@
       }
     },
     {
-      "line": 904,
+      "line": 902,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26327,7 +26305,7 @@
       }
     },
     {
-      "line": 906,
+      "line": 904,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26342,26 +26320,26 @@
       }
     },
     {
+      "line": 914,
+      "action": "corrected",
+      "reason": "trim/canonicalização de campo",
+      "original": {
+        "empresa": "HOTEL MONÓLITOS",
+        "ano": "2024",
+        "tipo": "HOSPEDAGEM "
+      },
+      "normalized": {
+        "empresa": "HOTEL MONÓLITOS",
+        "periodo": "2024",
+        "tipo": "HOSPEDAGEM"
+      }
+    },
+    {
       "line": 916,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
         "empresa": "HOTEL MONÓLITOS",
-        "ano": "2024",
-        "tipo": "HOSPEDAGEM "
-      },
-      "normalized": {
-        "empresa": "HOTEL MONÓLITOS",
-        "periodo": "2024",
-        "tipo": "HOSPEDAGEM"
-      }
-    },
-    {
-      "line": 918,
-      "action": "corrected",
-      "reason": "trim/canonicalização de campo",
-      "original": {
-        "empresa": "HOTEL MONÓLITOS",
         "ano": "2019",
         "tipo": "HOSPEDAGEM "
       },
@@ -26372,7 +26350,7 @@
       }
     },
     {
-      "line": 932,
+      "line": 930,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26387,7 +26365,7 @@
       }
     },
     {
-      "line": 935,
+      "line": 933,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26402,7 +26380,7 @@
       }
     },
     {
-      "line": 941,
+      "line": 939,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26417,7 +26395,7 @@
       }
     },
     {
-      "line": 944,
+      "line": 942,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26432,7 +26410,7 @@
       }
     },
     {
-      "line": 947,
+      "line": 945,
       "action": "deduplicated",
       "reason": "combinação EMPRESA+PERÍODO+TIPO repetida após normalização",
       "original": {
@@ -26442,7 +26420,7 @@
       }
     },
     {
-      "line": 948,
+      "line": 946,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26457,7 +26435,7 @@
       }
     },
     {
-      "line": 954,
+      "line": 952,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26472,7 +26450,7 @@
       }
     },
     {
-      "line": 957,
+      "line": 955,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26487,7 +26465,7 @@
       }
     },
     {
-      "line": 962,
+      "line": 960,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26502,7 +26480,7 @@
       }
     },
     {
-      "line": 965,
+      "line": 963,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26517,7 +26495,7 @@
       }
     },
     {
-      "line": 981,
+      "line": 979,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26532,7 +26510,7 @@
       }
     },
     {
-      "line": 984,
+      "line": 982,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26547,7 +26525,7 @@
       }
     },
     {
-      "line": 997,
+      "line": 995,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26562,7 +26540,7 @@
       }
     },
     {
-      "line": 1005,
+      "line": 1003,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26577,7 +26555,7 @@
       }
     },
     {
-      "line": 1007,
+      "line": 1005,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26592,7 +26570,7 @@
       }
     },
     {
-      "line": 1021,
+      "line": 1019,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26607,7 +26585,7 @@
       }
     },
     {
-      "line": 1039,
+      "line": 1037,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26622,7 +26600,7 @@
       }
     },
     {
-      "line": 1040,
+      "line": 1038,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26637,7 +26615,7 @@
       }
     },
     {
-      "line": 1043,
+      "line": 1041,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26652,7 +26630,7 @@
       }
     },
     {
-      "line": 1054,
+      "line": 1052,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26667,7 +26645,7 @@
       }
     },
     {
-      "line": 1056,
+      "line": 1054,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26682,7 +26660,7 @@
       }
     },
     {
-      "line": 1057,
+      "line": 1055,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26697,7 +26675,7 @@
       }
     },
     {
-      "line": 1058,
+      "line": 1056,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26712,7 +26690,7 @@
       }
     },
     {
-      "line": 1059,
+      "line": 1057,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26727,7 +26705,7 @@
       }
     },
     {
-      "line": 1092,
+      "line": 1090,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26742,7 +26720,7 @@
       }
     },
     {
-      "line": 1093,
+      "line": 1091,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26757,7 +26735,7 @@
       }
     },
     {
-      "line": 1112,
+      "line": 1110,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26772,7 +26750,7 @@
       }
     },
     {
-      "line": 1124,
+      "line": 1122,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26787,7 +26765,7 @@
       }
     },
     {
-      "line": 1130,
+      "line": 1128,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26802,7 +26780,7 @@
       }
     },
     {
-      "line": 1139,
+      "line": 1137,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26812,6 +26790,21 @@
       },
       "normalized": {
         "empresa": "LE RÊVE POUSADA",
+        "periodo": "2024",
+        "tipo": "HOSPEDAGEM"
+      }
+    },
+    {
+      "line": 1143,
+      "action": "corrected",
+      "reason": "trim/canonicalização de campo",
+      "original": {
+        "empresa": "LETIVA HOTEL SOBRAL",
+        "ano": "2024",
+        "tipo": "HOSPEDAGEM "
+      },
+      "normalized": {
+        "empresa": "LETIVA HOTEL SOBRAL",
         "periodo": "2024",
         "tipo": "HOSPEDAGEM"
       }
@@ -26821,21 +26814,6 @@
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
-        "empresa": "LETIVA HOTEL SOBRAL",
-        "ano": "2024",
-        "tipo": "HOSPEDAGEM "
-      },
-      "normalized": {
-        "empresa": "LETIVA HOTEL SOBRAL",
-        "periodo": "2024",
-        "tipo": "HOSPEDAGEM"
-      }
-    },
-    {
-      "line": 1147,
-      "action": "corrected",
-      "reason": "trim/canonicalização de campo",
-      "original": {
         "empresa": "LETIVA HOTEL CENTRO",
         "ano": "2024",
         "tipo": "HOSPEDAGEM "
@@ -26847,7 +26825,7 @@
       }
     },
     {
-      "line": 1154,
+      "line": 1152,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26862,7 +26840,7 @@
       }
     },
     {
-      "line": 1155,
+      "line": 1153,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26877,7 +26855,7 @@
       }
     },
     {
-      "line": 1156,
+      "line": 1154,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26892,7 +26870,7 @@
       }
     },
     {
-      "line": 1174,
+      "line": 1172,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26907,7 +26885,7 @@
       }
     },
     {
-      "line": 1181,
+      "line": 1179,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26922,7 +26900,7 @@
       }
     },
     {
-      "line": 1194,
+      "line": 1192,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26937,7 +26915,7 @@
       }
     },
     {
-      "line": 1201,
+      "line": 1199,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26952,7 +26930,7 @@
       }
     },
     {
-      "line": 1205,
+      "line": 1203,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26967,7 +26945,7 @@
       }
     },
     {
-      "line": 1220,
+      "line": 1218,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26982,7 +26960,7 @@
       }
     },
     {
-      "line": 1247,
+      "line": 1245,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26997,25 +26975,25 @@
       }
     },
     {
+      "line": 1249,
+      "action": "corrected",
+      "reason": "trim/canonicalização de campo",
+      "original": {
+        "empresa": "MEDCLINIC SOBRAL",
+        "ano": "2022",
+        "tipo": "SERVIÇOS DE SAUDE"
+      },
+      "normalized": {
+        "empresa": "MEDCLINIC SOBRAL",
+        "periodo": "2022",
+        "tipo": "SERVIÇOS DE SAÚDE"
+      }
+    },
+    {
       "line": 1251,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
-        "empresa": "MEDCLINIC SOBRAL",
-        "ano": "2022",
-        "tipo": "SERVIÇOS DE SAUDE"
-      },
-      "normalized": {
-        "empresa": "MEDCLINIC SOBRAL",
-        "periodo": "2022",
-        "tipo": "SERVIÇOS DE SAÚDE"
-      }
-    },
-    {
-      "line": 1253,
-      "action": "corrected",
-      "reason": "trim/canonicalização de campo",
-      "original": {
         "empresa": "MEDVET MULTICLÍNICA VETERINÁRIA",
         "ano": "2022",
         "tipo": "SERVIÇOS DE SAUDE"
@@ -27027,7 +27005,7 @@
       }
     },
     {
-      "line": 1276,
+      "line": 1274,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -27042,7 +27020,7 @@
       }
     },
     {
-      "line": 1277,
+      "line": 1275,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -27057,7 +27035,7 @@
       }
     },
     {
-      "line": 1286,
+      "line": 1284,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -27072,7 +27050,7 @@
       }
     },
     {
-      "line": 1287,
+      "line": 1285,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -27087,7 +27065,7 @@
       }
     },
     {
-      "line": 1293,
+      "line": 1291,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -27102,7 +27080,7 @@
       }
     },
     {
-      "line": 1294,
+      "line": 1292,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -27117,7 +27095,7 @@
       }
     },
     {
-      "line": 1306,
+      "line": 1304,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -27132,7 +27110,7 @@
       }
     },
     {
-      "line": 1318,
+      "line": 1316,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -27147,7 +27125,7 @@
       }
     },
     {
-      "line": 1324,
+      "line": 1322,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -27162,7 +27140,7 @@
       }
     },
     {
-      "line": 1352,
+      "line": 1350,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -27177,7 +27155,7 @@
       }
     },
     {
-      "line": 1365,
+      "line": 1363,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -27192,7 +27170,7 @@
       }
     },
     {
-      "line": 1387,
+      "line": 1385,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -27207,7 +27185,7 @@
       }
     },
     {
-      "line": 1409,
+      "line": 1407,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -27222,7 +27200,7 @@
       }
     },
     {
-      "line": 1414,
+      "line": 1412,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -27237,7 +27215,7 @@
       }
     },
     {
-      "line": 1460,
+      "line": 1458,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -27252,7 +27230,7 @@
       }
     },
     {
-      "line": 1467,
+      "line": 1465,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -27267,7 +27245,7 @@
       }
     },
     {
-      "line": 1478,
+      "line": 1476,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -27282,7 +27260,7 @@
       }
     },
     {
-      "line": 1479,
+      "line": 1477,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -27297,7 +27275,7 @@
       }
     },
     {
-      "line": 1487,
+      "line": 1485,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -27312,7 +27290,7 @@
       }
     },
     {
-      "line": 1489,
+      "line": 1487,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -27327,7 +27305,7 @@
       }
     },
     {
-      "line": 1493,
+      "line": 1491,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -27342,7 +27320,7 @@
       }
     },
     {
-      "line": 1495,
+      "line": 1493,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -27357,7 +27335,7 @@
       }
     },
     {
-      "line": 1496,
+      "line": 1494,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -27372,7 +27350,7 @@
       }
     },
     {
-      "line": 1497,
+      "line": 1495,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -27387,7 +27365,7 @@
       }
     },
     {
-      "line": 1498,
+      "line": 1496,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -27402,7 +27380,7 @@
       }
     },
     {
-      "line": 1499,
+      "line": 1497,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -27417,7 +27395,7 @@
       }
     },
     {
-      "line": 1503,
+      "line": 1501,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -27427,6 +27405,21 @@
       },
       "normalized": {
         "empresa": "POUSADA BRISA DO RIO",
+        "periodo": "2025",
+        "tipo": "HOSPEDAGEM"
+      }
+    },
+    {
+      "line": 1503,
+      "action": "corrected",
+      "reason": "trim/canonicalização de campo",
+      "original": {
+        "empresa": "POUSADA CAFÉ BRASIL",
+        "ano": "2025",
+        "tipo": "HOSPEDAGEM "
+      },
+      "normalized": {
+        "empresa": "POUSADA CAFÉ BRASIL",
         "periodo": "2025",
         "tipo": "HOSPEDAGEM"
       }
@@ -27436,27 +27429,42 @@
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
-        "empresa": "POUSADA CAFÉ BRASIL",
-        "ano": "2025",
-        "tipo": "HOSPEDAGEM "
-      },
-      "normalized": {
-        "empresa": "POUSADA CAFÉ BRASIL",
-        "periodo": "2025",
-        "tipo": "HOSPEDAGEM"
-      }
-    },
-    {
-      "line": 1507,
-      "action": "corrected",
-      "reason": "trim/canonicalização de campo",
-      "original": {
         "empresa": "POUSADA CANOÉ BRASIL",
         "ano": "2024",
         "tipo": "HOSPEDAGEM "
       },
       "normalized": {
         "empresa": "POUSADA CANOÉ BRASIL",
+        "periodo": "2024",
+        "tipo": "HOSPEDAGEM"
+      }
+    },
+    {
+      "line": 1508,
+      "action": "corrected",
+      "reason": "trim/canonicalização de campo",
+      "original": {
+        "empresa": "POUSADA CAPITÃO THOMAZ",
+        "ano": "2024",
+        "tipo": "HOSPEDAGEM "
+      },
+      "normalized": {
+        "empresa": "POUSADA CAPITÃO THOMAZ",
+        "periodo": "2024",
+        "tipo": "HOSPEDAGEM"
+      }
+    },
+    {
+      "line": 1509,
+      "action": "corrected",
+      "reason": "trim/canonicalização de campo",
+      "original": {
+        "empresa": "POUSADA CASA DO ANGELO",
+        "ano": "2024",
+        "tipo": "HOSPEDAGEM "
+      },
+      "normalized": {
+        "empresa": "POUSADA CASA DO ANGELO",
         "periodo": "2024",
         "tipo": "HOSPEDAGEM"
       }
@@ -27466,36 +27474,6 @@
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
-        "empresa": "POUSADA CAPITÃO THOMAZ",
-        "ano": "2024",
-        "tipo": "HOSPEDAGEM "
-      },
-      "normalized": {
-        "empresa": "POUSADA CAPITÃO THOMAZ",
-        "periodo": "2024",
-        "tipo": "HOSPEDAGEM"
-      }
-    },
-    {
-      "line": 1511,
-      "action": "corrected",
-      "reason": "trim/canonicalização de campo",
-      "original": {
-        "empresa": "POUSADA CASA DO ANGELO",
-        "ano": "2024",
-        "tipo": "HOSPEDAGEM "
-      },
-      "normalized": {
-        "empresa": "POUSADA CASA DO ANGELO",
-        "periodo": "2024",
-        "tipo": "HOSPEDAGEM"
-      }
-    },
-    {
-      "line": 1512,
-      "action": "corrected",
-      "reason": "trim/canonicalização de campo",
-      "original": {
         "empresa": "POUSADA CASA DO ANGELO",
         "ano": "2019",
         "tipo": "HOSPEDAGEM "
@@ -27507,7 +27485,7 @@
       }
     },
     {
-      "line": 1523,
+      "line": 1521,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -27517,6 +27495,36 @@
       },
       "normalized": {
         "empresa": "POUSADA CATAVENTO HOSPEDAGEM E TRANSPORTE",
+        "periodo": "2024",
+        "tipo": "HOSPEDAGEM"
+      }
+    },
+    {
+      "line": 1524,
+      "action": "corrected",
+      "reason": "trim/canonicalização de campo",
+      "original": {
+        "empresa": "POUSADA CHEZ LORAN VIP",
+        "ano": "2019",
+        "tipo": "HOSPEDAGEM "
+      },
+      "normalized": {
+        "empresa": "POUSADA CHEZ LORAN VIP",
+        "periodo": "2019",
+        "tipo": "HOSPEDAGEM"
+      }
+    },
+    {
+      "line": 1525,
+      "action": "corrected",
+      "reason": "trim/canonicalização de campo",
+      "original": {
+        "empresa": "POUSADA CHEZ TOI",
+        "ano": "2024",
+        "tipo": "HOSPEDAGEM "
+      },
+      "normalized": {
+        "empresa": "POUSADA CHEZ TOI",
         "periodo": "2024",
         "tipo": "HOSPEDAGEM"
       }
@@ -27526,36 +27534,6 @@
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
-        "empresa": "POUSADA CHEZ LORAN VIP",
-        "ano": "2019",
-        "tipo": "HOSPEDAGEM "
-      },
-      "normalized": {
-        "empresa": "POUSADA CHEZ LORAN VIP",
-        "periodo": "2019",
-        "tipo": "HOSPEDAGEM"
-      }
-    },
-    {
-      "line": 1527,
-      "action": "corrected",
-      "reason": "trim/canonicalização de campo",
-      "original": {
-        "empresa": "POUSADA CHEZ TOI",
-        "ano": "2024",
-        "tipo": "HOSPEDAGEM "
-      },
-      "normalized": {
-        "empresa": "POUSADA CHEZ TOI",
-        "periodo": "2024",
-        "tipo": "HOSPEDAGEM"
-      }
-    },
-    {
-      "line": 1528,
-      "action": "corrected",
-      "reason": "trim/canonicalização de campo",
-      "original": {
         "empresa": "POUSADA COCO BABAÇU",
         "ano": "2025",
         "tipo": "HOSPEDAGEM "
@@ -27567,7 +27545,7 @@
       }
     },
     {
-      "line": 1529,
+      "line": 1527,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -27582,7 +27560,7 @@
       }
     },
     {
-      "line": 1533,
+      "line": 1531,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -27592,6 +27570,36 @@
       },
       "normalized": {
         "empresa": "POUSADA DEPRAIABRASIL",
+        "periodo": "2025",
+        "tipo": "HOSPEDAGEM"
+      }
+    },
+    {
+      "line": 1533,
+      "action": "corrected",
+      "reason": "trim/canonicalização de campo",
+      "original": {
+        "empresa": "POUSADA DIANE",
+        "ano": "2025",
+        "tipo": "HOSPEDAGEM "
+      },
+      "normalized": {
+        "empresa": "POUSADA DIANE",
+        "periodo": "2025",
+        "tipo": "HOSPEDAGEM"
+      }
+    },
+    {
+      "line": 1534,
+      "action": "corrected",
+      "reason": "trim/canonicalização de campo",
+      "original": {
+        "empresa": "POUSADA DO LAGO",
+        "ano": "2025",
+        "tipo": "HOSPEDAGEM "
+      },
+      "normalized": {
+        "empresa": "POUSADA DO LAGO",
         "periodo": "2025",
         "tipo": "HOSPEDAGEM"
       }
@@ -27601,36 +27609,6 @@
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
-        "empresa": "POUSADA DIANE",
-        "ano": "2025",
-        "tipo": "HOSPEDAGEM "
-      },
-      "normalized": {
-        "empresa": "POUSADA DIANE",
-        "periodo": "2025",
-        "tipo": "HOSPEDAGEM"
-      }
-    },
-    {
-      "line": 1536,
-      "action": "corrected",
-      "reason": "trim/canonicalização de campo",
-      "original": {
-        "empresa": "POUSADA DO LAGO",
-        "ano": "2025",
-        "tipo": "HOSPEDAGEM "
-      },
-      "normalized": {
-        "empresa": "POUSADA DO LAGO",
-        "periodo": "2025",
-        "tipo": "HOSPEDAGEM"
-      }
-    },
-    {
-      "line": 1537,
-      "action": "corrected",
-      "reason": "trim/canonicalização de campo",
-      "original": {
         "empresa": "POUSADA DO PAIVA",
         "ano": "2019",
         "tipo": "HOSPEDAGEM "
@@ -27642,7 +27620,7 @@
       }
     },
     {
-      "line": 1542,
+      "line": 1540,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -27657,7 +27635,7 @@
       }
     },
     {
-      "line": 1543,
+      "line": 1541,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -27672,7 +27650,7 @@
       }
     },
     {
-      "line": 1544,
+      "line": 1542,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -27687,7 +27665,7 @@
       }
     },
     {
-      "line": 1549,
+      "line": 1547,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -27702,7 +27680,7 @@
       }
     },
     {
-      "line": 1552,
+      "line": 1550,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -27717,7 +27695,7 @@
       }
     },
     {
-      "line": 1557,
+      "line": 1555,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -27732,7 +27710,7 @@
       }
     },
     {
-      "line": 1561,
+      "line": 1559,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -27747,7 +27725,7 @@
       }
     },
     {
-      "line": 1564,
+      "line": 1562,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -27762,7 +27740,7 @@
       }
     },
     {
-      "line": 1572,
+      "line": 1570,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -27777,7 +27755,7 @@
       }
     },
     {
-      "line": 1575,
+      "line": 1573,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -27792,7 +27770,7 @@
       }
     },
     {
-      "line": 1576,
+      "line": 1574,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -27803,6 +27781,21 @@
       "normalized": {
         "empresa": "POUSADA JERI DUNAS",
         "periodo": "2019",
+        "tipo": "HOSPEDAGEM"
+      }
+    },
+    {
+      "line": 1575,
+      "action": "corrected",
+      "reason": "trim/canonicalização de campo",
+      "original": {
+        "empresa": "POUSADA JERIBÁ",
+        "ano": "2024",
+        "tipo": "HOSPEDAGEM "
+      },
+      "normalized": {
+        "empresa": "POUSADA JERIBÁ",
+        "periodo": "2024",
         "tipo": "HOSPEDAGEM"
       }
     },
@@ -27812,27 +27805,27 @@
       "reason": "trim/canonicalização de campo",
       "original": {
         "empresa": "POUSADA JERIBÁ",
-        "ano": "2024",
-        "tipo": "HOSPEDAGEM "
-      },
-      "normalized": {
-        "empresa": "POUSADA JERIBÁ",
-        "periodo": "2024",
-        "tipo": "HOSPEDAGEM"
-      }
-    },
-    {
-      "line": 1579,
-      "action": "corrected",
-      "reason": "trim/canonicalização de campo",
-      "original": {
-        "empresa": "POUSADA JERIBÁ",
         "ano": "2019",
         "tipo": "HOSPEDAGEM "
       },
       "normalized": {
         "empresa": "POUSADA JERIBÁ",
         "periodo": "2019",
+        "tipo": "HOSPEDAGEM"
+      }
+    },
+    {
+      "line": 1584,
+      "action": "corrected",
+      "reason": "trim/canonicalização de campo",
+      "original": {
+        "empresa": "POUSADA JUNDUH",
+        "ano": "2024",
+        "tipo": "HOSPEDAGEM "
+      },
+      "normalized": {
+        "empresa": "POUSADA JUNDUH",
+        "periodo": "2024",
         "tipo": "HOSPEDAGEM"
       }
     },
@@ -27841,21 +27834,6 @@
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
-        "empresa": "POUSADA JUNDUH",
-        "ano": "2024",
-        "tipo": "HOSPEDAGEM "
-      },
-      "normalized": {
-        "empresa": "POUSADA JUNDUH",
-        "periodo": "2024",
-        "tipo": "HOSPEDAGEM"
-      }
-    },
-    {
-      "line": 1588,
-      "action": "corrected",
-      "reason": "trim/canonicalização de campo",
-      "original": {
         "empresa": "POUSADA LA DOLCE VITA",
         "ano": "2025",
         "tipo": "HOSPEDAGEM "
@@ -27867,7 +27845,7 @@
       }
     },
     {
-      "line": 1589,
+      "line": 1587,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -27882,7 +27860,7 @@
       }
     },
     {
-      "line": 1592,
+      "line": 1590,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -27897,7 +27875,7 @@
       }
     },
     {
-      "line": 1595,
+      "line": 1593,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -27908,6 +27886,21 @@
       "normalized": {
         "empresa": "POUSADA LATITUDE",
         "periodo": "2019",
+        "tipo": "HOSPEDAGEM"
+      }
+    },
+    {
+      "line": 1606,
+      "action": "corrected",
+      "reason": "trim/canonicalização de campo",
+      "original": {
+        "empresa": "POUSADA LIRIOS DO CAMPO",
+        "ano": "2024",
+        "tipo": "HOSPEDAGEM "
+      },
+      "normalized": {
+        "empresa": "POUSADA LIRIOS DO CAMPO",
+        "periodo": "2024",
         "tipo": "HOSPEDAGEM"
       }
     },
@@ -27916,21 +27909,6 @@
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
-        "empresa": "POUSADA LIRIOS DO CAMPO",
-        "ano": "2024",
-        "tipo": "HOSPEDAGEM "
-      },
-      "normalized": {
-        "empresa": "POUSADA LIRIOS DO CAMPO",
-        "periodo": "2024",
-        "tipo": "HOSPEDAGEM"
-      }
-    },
-    {
-      "line": 1610,
-      "action": "corrected",
-      "reason": "trim/canonicalização de campo",
-      "original": {
         "empresa": "POUSADA MATUSA",
         "ano": "2025",
         "tipo": "HOSPEDAGEM "
@@ -27942,7 +27920,7 @@
       }
     },
     {
-      "line": 1611,
+      "line": 1609,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -27957,7 +27935,7 @@
       }
     },
     {
-      "line": 1617,
+      "line": 1615,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -27972,7 +27950,7 @@
       }
     },
     {
-      "line": 1626,
+      "line": 1624,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -27987,7 +27965,7 @@
       }
     },
     {
-      "line": 1637,
+      "line": 1635,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -28002,7 +27980,7 @@
       }
     },
     {
-      "line": 1638,
+      "line": 1636,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -28012,6 +27990,21 @@
       },
       "normalized": {
         "empresa": "POUSADA SERRA BELA",
+        "periodo": "2024",
+        "tipo": "HOSPEDAGEM"
+      }
+    },
+    {
+      "line": 1649,
+      "action": "corrected",
+      "reason": "trim/canonicalização de campo",
+      "original": {
+        "empresa": "POUSADA SOLLARI",
+        "ano": "2024",
+        "tipo": "HOSPEDAGEM "
+      },
+      "normalized": {
+        "empresa": "POUSADA SOLLARI",
         "periodo": "2024",
         "tipo": "HOSPEDAGEM"
       }
@@ -28021,12 +28014,12 @@
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
-        "empresa": "POUSADA SOLLARI",
+        "empresa": "POUSADA SOLONÓPOLE",
         "ano": "2024",
         "tipo": "HOSPEDAGEM "
       },
       "normalized": {
-        "empresa": "POUSADA SOLLARI",
+        "empresa": "POUSADA SOLONÓPOLE",
         "periodo": "2024",
         "tipo": "HOSPEDAGEM"
       }
@@ -28037,21 +28030,6 @@
       "reason": "trim/canonicalização de campo",
       "original": {
         "empresa": "POUSADA SOLONÓPOLE",
-        "ano": "2024",
-        "tipo": "HOSPEDAGEM "
-      },
-      "normalized": {
-        "empresa": "POUSADA SOLONÓPOLE",
-        "periodo": "2024",
-        "tipo": "HOSPEDAGEM"
-      }
-    },
-    {
-      "line": 1655,
-      "action": "corrected",
-      "reason": "trim/canonicalização de campo",
-      "original": {
-        "empresa": "POUSADA SOLONÓPOLE",
         "ano": "2019",
         "tipo": "HOSPEDAGEM "
       },
@@ -28062,7 +28040,7 @@
       }
     },
     {
-      "line": 1660,
+      "line": 1658,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -28072,27 +28050,27 @@
       },
       "normalized": {
         "empresa": "POUSADA TRANQUILANDIA VILLAGE",
+        "periodo": "2024",
+        "tipo": "HOSPEDAGEM"
+      }
+    },
+    {
+      "line": 1661,
+      "action": "corrected",
+      "reason": "trim/canonicalização de campo",
+      "original": {
+        "empresa": "POUSADA VARANDA AMAR",
+        "ano": "2024",
+        "tipo": "HOSPEDAGEM "
+      },
+      "normalized": {
+        "empresa": "POUSADA VARANDA AMAR",
         "periodo": "2024",
         "tipo": "HOSPEDAGEM"
       }
     },
     {
       "line": 1663,
-      "action": "corrected",
-      "reason": "trim/canonicalização de campo",
-      "original": {
-        "empresa": "POUSADA VARANDA AMAR",
-        "ano": "2024",
-        "tipo": "HOSPEDAGEM "
-      },
-      "normalized": {
-        "empresa": "POUSADA VARANDA AMAR",
-        "periodo": "2024",
-        "tipo": "HOSPEDAGEM"
-      }
-    },
-    {
-      "line": 1665,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -28107,7 +28085,7 @@
       }
     },
     {
-      "line": 1666,
+      "line": 1664,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -28122,7 +28100,7 @@
       }
     },
     {
-      "line": 1671,
+      "line": 1669,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -28137,7 +28115,7 @@
       }
     },
     {
-      "line": 1674,
+      "line": 1672,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -28152,7 +28130,7 @@
       }
     },
     {
-      "line": 1675,
+      "line": 1673,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -28167,7 +28145,7 @@
       }
     },
     {
-      "line": 1677,
+      "line": 1675,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -28182,7 +28160,7 @@
       }
     },
     {
-      "line": 1696,
+      "line": 1694,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -28197,7 +28175,7 @@
       }
     },
     {
-      "line": 1708,
+      "line": 1706,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -28212,7 +28190,7 @@
       }
     },
     {
-      "line": 1717,
+      "line": 1715,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -28227,7 +28205,7 @@
       }
     },
     {
-      "line": 1721,
+      "line": 1719,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -28242,7 +28220,7 @@
       }
     },
     {
-      "line": 1723,
+      "line": 1721,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -28257,7 +28235,7 @@
       }
     },
     {
-      "line": 1724,
+      "line": 1722,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -28267,6 +28245,21 @@
       },
       "normalized": {
         "empresa": "RECANTO DO BARÃO POUSADA",
+        "periodo": "2024",
+        "tipo": "HOSPEDAGEM"
+      }
+    },
+    {
+      "line": 1727,
+      "action": "corrected",
+      "reason": "trim/canonicalização de campo",
+      "original": {
+        "empresa": "REMANSO HOTEL DE SERRA",
+        "ano": "2024",
+        "tipo": "HOSPEDAGEM "
+      },
+      "normalized": {
+        "empresa": "REMANSO HOTEL DE SERRA",
         "periodo": "2024",
         "tipo": "HOSPEDAGEM"
       }
@@ -28277,21 +28270,6 @@
       "reason": "trim/canonicalização de campo",
       "original": {
         "empresa": "REMANSO HOTEL DE SERRA",
-        "ano": "2024",
-        "tipo": "HOSPEDAGEM "
-      },
-      "normalized": {
-        "empresa": "REMANSO HOTEL DE SERRA",
-        "periodo": "2024",
-        "tipo": "HOSPEDAGEM"
-      }
-    },
-    {
-      "line": 1731,
-      "action": "corrected",
-      "reason": "trim/canonicalização de campo",
-      "original": {
-        "empresa": "REMANSO HOTEL DE SERRA",
         "ano": "2019",
         "tipo": "HOSPEDAGEM "
       },
@@ -28302,7 +28280,7 @@
       }
     },
     {
-      "line": 1769,
+      "line": 1767,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -28317,7 +28295,7 @@
       }
     },
     {
-      "line": 1784,
+      "line": 1782,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -28332,7 +28310,7 @@
       }
     },
     {
-      "line": 1812,
+      "line": 1810,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -28347,7 +28325,7 @@
       }
     },
     {
-      "line": 1818,
+      "line": 1816,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -28362,7 +28340,7 @@
       }
     },
     {
-      "line": 1845,
+      "line": 1843,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -28377,7 +28355,7 @@
       }
     },
     {
-      "line": 1875,
+      "line": 1873,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -28392,7 +28370,7 @@
       }
     },
     {
-      "line": 1876,
+      "line": 1874,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -28407,7 +28385,7 @@
       }
     },
     {
-      "line": 1907,
+      "line": 1905,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -28422,17 +28400,7 @@
       }
     },
     {
-      "line": 1954,
-      "action": "deduplicated",
-      "reason": "combinação EMPRESA+PERÍODO+TIPO repetida após normalização",
-      "original": {
-        "empresa": "TABERNA DA CARNE",
-        "ano": "2016",
-        "tipo": "ALIMENTAÇÃO FORA DO LAR"
-      }
-    },
-    {
-      "line": 1970,
+      "line": 1967,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -28447,7 +28415,7 @@
       }
     },
     {
-      "line": 1972,
+      "line": 1969,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -28462,7 +28430,7 @@
       }
     },
     {
-      "line": 1977,
+      "line": 1974,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -28477,7 +28445,7 @@
       }
     },
     {
-      "line": 1978,
+      "line": 1975,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -28492,7 +28460,7 @@
       }
     },
     {
-      "line": 1979,
+      "line": 1976,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -28507,7 +28475,7 @@
       }
     },
     {
-      "line": 1981,
+      "line": 1978,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -28522,7 +28490,7 @@
       }
     },
     {
-      "line": 1982,
+      "line": 1979,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -28532,27 +28500,27 @@
       },
       "normalized": {
         "empresa": "TERRA - AGÊNCIA DE VIAGENS E TURISMO LTDA.",
+        "periodo": "2023",
+        "tipo": "AGÊNCIA DE VIAGENS"
+      }
+    },
+    {
+      "line": 1980,
+      "action": "corrected",
+      "reason": "trim/canonicalização de campo",
+      "original": {
+        "empresa": "TERRA BRAZIL EXPERIENCE",
+        "ano": "2023",
+        "tipo": "AGÊNCIA DE VIAGENS "
+      },
+      "normalized": {
+        "empresa": "TERRA BRAZIL EXPERIENCE",
         "periodo": "2023",
         "tipo": "AGÊNCIA DE VIAGENS"
       }
     },
     {
       "line": 1983,
-      "action": "corrected",
-      "reason": "trim/canonicalização de campo",
-      "original": {
-        "empresa": "TERRA BRAZIL EXPERIENCE",
-        "ano": "2023",
-        "tipo": "AGÊNCIA DE VIAGENS "
-      },
-      "normalized": {
-        "empresa": "TERRA BRAZIL EXPERIENCE",
-        "periodo": "2023",
-        "tipo": "AGÊNCIA DE VIAGENS"
-      }
-    },
-    {
-      "line": 1986,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -28567,7 +28535,7 @@
       }
     },
     {
-      "line": 1987,
+      "line": 1984,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -28582,7 +28550,7 @@
       }
     },
     {
-      "line": 2005,
+      "line": 2002,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -28597,7 +28565,7 @@
       }
     },
     {
-      "line": 2008,
+      "line": 2005,
       "action": "deduplicated",
       "reason": "combinação EMPRESA+PERÍODO+TIPO repetida após normalização",
       "original": {
@@ -28607,7 +28575,7 @@
       }
     },
     {
-      "line": 2015,
+      "line": 2012,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -28622,7 +28590,7 @@
       }
     },
     {
-      "line": 2028,
+      "line": 2025,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -28637,7 +28605,7 @@
       }
     },
     {
-      "line": 2042,
+      "line": 2039,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -28652,7 +28620,7 @@
       }
     },
     {
-      "line": 2046,
+      "line": 2043,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -28667,7 +28635,7 @@
       }
     },
     {
-      "line": 2047,
+      "line": 2044,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -28682,7 +28650,7 @@
       }
     },
     {
-      "line": 2064,
+      "line": 2061,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -28697,7 +28665,7 @@
       }
     },
     {
-      "line": 2071,
+      "line": 2068,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -28712,7 +28680,7 @@
       }
     },
     {
-      "line": 2072,
+      "line": 2069,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -28727,7 +28695,7 @@
       }
     },
     {
-      "line": 2078,
+      "line": 2075,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -28742,7 +28710,7 @@
       }
     },
     {
-      "line": 2079,
+      "line": 2076,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -28757,7 +28725,7 @@
       }
     },
     {
-      "line": 2080,
+      "line": 2077,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -28772,7 +28740,7 @@
       }
     },
     {
-      "line": 2087,
+      "line": 2084,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -28783,26 +28751,26 @@
       "normalized": {
         "empresa": "WDR TURISMO",
         "periodo": "2023",
+        "tipo": "AGÊNCIA DE VIAGENS"
+      }
+    },
+    {
+      "line": 2085,
+      "action": "corrected",
+      "reason": "trim/canonicalização de campo",
+      "original": {
+        "empresa": "WEE TRAVEL",
+        "ano": "2024",
+        "tipo": "AGÊNCIA DE VIAGENS "
+      },
+      "normalized": {
+        "empresa": "WEE TRAVEL",
+        "periodo": "2024",
         "tipo": "AGÊNCIA DE VIAGENS"
       }
     },
     {
       "line": 2088,
-      "action": "corrected",
-      "reason": "trim/canonicalização de campo",
-      "original": {
-        "empresa": "WEE TRAVEL",
-        "ano": "2024",
-        "tipo": "AGÊNCIA DE VIAGENS "
-      },
-      "normalized": {
-        "empresa": "WEE TRAVEL",
-        "periodo": "2024",
-        "tipo": "AGÊNCIA DE VIAGENS"
-      }
-    },
-    {
-      "line": 2091,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -28817,7 +28785,7 @@
       }
     },
     {
-      "line": 2102,
+      "line": 2099,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -28832,7 +28800,7 @@
       }
     }
   ],
-  "sourceRows": 2101,
+  "sourceRows": 2098,
   "header": [
     "EMPRESA",
     "ANO",
