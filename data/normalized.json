@@ -1,78 +1,6 @@
 {
-  "generatedAt": "2026-09-21T22:18:19.949Z",
+  "generatedAt": "2026-09-23T00:07:24.448Z",
   "records": [
-    {
-      "id": "cenario ideal hospedagem|2022|hospedagem",
-      "empresa": "CENÁRIO IDEAL HOSPEDAGEM",
-      "empresaKey": "cenario ideal hospedagem",
-      "ano": "2022",
-      "periodo": "2022",
-      "periodoKey": "2022",
-      "periodoInicio": 2022,
-      "periodoFim": 2022,
-      "tipo": "HOSPEDAGEM",
-      "tipoKey": "hospedagem"
-    },
-    {
-      "id": "divina cozinha|2011 / 2012|alimentacao fora do lar",
-      "empresa": "DIVINA COZINHA",
-      "empresaKey": "divina cozinha",
-      "ano": "2011 / 2012",
-      "periodo": "2011 / 2012",
-      "periodoKey": "2011 / 2012",
-      "periodoInicio": 2011,
-      "periodoFim": 2012,
-      "tipo": "ALIMENTAÇÃO FORA DO LAR",
-      "tipoKey": "alimentacao fora do lar"
-    },
-    {
-      "id": "luciana siqueira de amorim|2021|servicos de estetica",
-      "empresa": "LUCIANA SIQUEIRA DE AMORIM",
-      "empresaKey": "luciana siqueira de amorim",
-      "ano": "2021",
-      "periodo": "2021",
-      "periodoKey": "2021",
-      "periodoInicio": 2021,
-      "periodoFim": 2021,
-      "tipo": "SERVIÇOS DE ESTÉTICA",
-      "tipoKey": "servicos de estetica"
-    },
-    {
-      "id": "pasto & pizzas|2025|alimentacao fora do lar",
-      "empresa": "PASTO & PIZZAS",
-      "empresaKey": "pasto & pizzas",
-      "ano": "2025",
-      "periodo": "2025",
-      "periodoKey": "2025",
-      "periodoInicio": 2025,
-      "periodoFim": 2025,
-      "tipo": "ALIMENTAÇÃO FORA DO LAR",
-      "tipoKey": "alimentacao fora do lar"
-    },
-    {
-      "id": "restaurante cantinho do frango sul|2022|alimentacao fora do lar",
-      "empresa": "RESTAURANTE CANTINHO DO FRANGO SUL",
-      "empresaKey": "restaurante cantinho do frango sul",
-      "ano": "2022",
-      "periodo": "2022",
-      "periodoKey": "2022",
-      "periodoInicio": 2022,
-      "periodoFim": 2022,
-      "tipo": "ALIMENTAÇÃO FORA DO LAR",
-      "tipoKey": "alimentacao fora do lar"
-    },
-    {
-      "id": "sos motos (raimundo nonato almeida lessa)|2021|manutencao de veiculos",
-      "empresa": "SOS MOTOS (RAIMUNDO NONATO ALMEIDA LESSA)",
-      "empresaKey": "sos motos (raimundo nonato almeida lessa)",
-      "ano": "2021",
-      "periodo": "2021",
-      "periodoKey": "2021",
-      "periodoInicio": 2021,
-      "periodoFim": 2021,
-      "tipo": "MANUTENÇÃO DE VEÍCULOS",
-      "tipoKey": "manutencao de veiculos"
-    },
     {
       "id": "2la eventos|2025|empresa de eventos",
       "empresa": "2LA EVENTOS",
@@ -1430,9 +1358,9 @@
       "tipoKey": "alimentacao fora do lar"
     },
     {
-      "id": "barraca chega mais beach|2016|alimentacao fora do lar",
-      "empresa": "BARRACA CHEGA MAIS BEACH",
-      "empresaKey": "barraca chega mais beach",
+      "id": "chega mais beach barraca e restaurante|2016|alimentacao fora do lar",
+      "empresa": "CHEGA MAIS BEACH BARRACA E RESTAURANTE",
+      "empresaKey": "chega mais beach barraca e restaurante",
       "ano": "2016",
       "periodo": "2016",
       "periodoKey": "2016",
@@ -1442,9 +1370,9 @@
       "tipoKey": "alimentacao fora do lar"
     },
     {
-      "id": "barraca chega mais beach|2014|alimentacao fora do lar",
-      "empresa": "BARRACA CHEGA MAIS BEACH",
-      "empresaKey": "barraca chega mais beach",
+      "id": "chega mais beach barraca e restaurante|2014|alimentacao fora do lar",
+      "empresa": "CHEGA MAIS BEACH BARRACA E RESTAURANTE",
+      "empresaKey": "chega mais beach barraca e restaurante",
       "ano": "2014",
       "periodo": "2014",
       "periodoKey": "2014",
@@ -1454,9 +1382,9 @@
       "tipoKey": "alimentacao fora do lar"
     },
     {
-      "id": "barraca chega mais beach|2013|alimentacao fora do lar",
-      "empresa": "BARRACA CHEGA MAIS BEACH",
-      "empresaKey": "barraca chega mais beach",
+      "id": "chega mais beach barraca e restaurante|2013|alimentacao fora do lar",
+      "empresa": "CHEGA MAIS BEACH BARRACA E RESTAURANTE",
+      "empresaKey": "chega mais beach barraca e restaurante",
       "ano": "2013",
       "periodo": "2013",
       "periodoKey": "2013",
@@ -1466,9 +1394,9 @@
       "tipoKey": "alimentacao fora do lar"
     },
     {
-      "id": "barraca chega mais beach|2011 / 2012|alimentacao fora do lar",
-      "empresa": "BARRACA CHEGA MAIS BEACH",
-      "empresaKey": "barraca chega mais beach",
+      "id": "chega mais beach barraca e restaurante|2011 / 2012|alimentacao fora do lar",
+      "empresa": "CHEGA MAIS BEACH BARRACA E RESTAURANTE",
+      "empresaKey": "chega mais beach barraca e restaurante",
       "ano": "2011 / 2012",
       "periodo": "2011 / 2012",
       "periodoKey": "2011 / 2012",
@@ -1478,9 +1406,9 @@
       "tipoKey": "alimentacao fora do lar"
     },
     {
-      "id": "barraca chega mais beach|2009 / 2010|alimentacao fora do lar",
-      "empresa": "BARRACA CHEGA MAIS BEACH",
-      "empresaKey": "barraca chega mais beach",
+      "id": "chega mais beach barraca e restaurante|2009 / 2010|alimentacao fora do lar",
+      "empresa": "CHEGA MAIS BEACH BARRACA E RESTAURANTE",
+      "empresaKey": "chega mais beach barraca e restaurante",
       "ano": "2009 / 2010",
       "periodo": "2009 / 2010",
       "periodoKey": "2009 / 2010",
@@ -1490,9 +1418,9 @@
       "tipoKey": "alimentacao fora do lar"
     },
     {
-      "id": "barraca chega mais beach|2023|alimentacao fora do lar",
-      "empresa": "BARRACA CHEGA MAIS BEACH",
-      "empresaKey": "barraca chega mais beach",
+      "id": "chega mais beach barraca e restaurante|2023|alimentacao fora do lar",
+      "empresa": "CHEGA MAIS BEACH BARRACA E RESTAURANTE",
+      "empresaKey": "chega mais beach barraca e restaurante",
       "ano": "2023",
       "periodo": "2023",
       "periodoKey": "2023",
@@ -1502,9 +1430,9 @@
       "tipoKey": "alimentacao fora do lar"
     },
     {
-      "id": "barraca chega mais beach|2017|alimentacao fora do lar",
-      "empresa": "BARRACA CHEGA MAIS BEACH",
-      "empresaKey": "barraca chega mais beach",
+      "id": "chega mais beach barraca e restaurante|2017|alimentacao fora do lar",
+      "empresa": "CHEGA MAIS BEACH BARRACA E RESTAURANTE",
+      "empresaKey": "chega mais beach barraca e restaurante",
       "ano": "2017",
       "periodo": "2017",
       "periodoKey": "2017",
@@ -3110,9 +3038,9 @@
       "tipoKey": "alimentacao fora do lar"
     },
     {
-      "id": "cabana del primo - aldeota|2017|alimentacao fora do lar",
-      "empresa": "CABAÑA DEL PRIMO - ALDEOTA",
-      "empresaKey": "cabana del primo - aldeota",
+      "id": "cabana del primo|2017|alimentacao fora do lar",
+      "empresa": "CABAÑA DEL PRIMO",
+      "empresaKey": "cabana del primo",
       "ano": "2017",
       "periodo": "2017",
       "periodoKey": "2017",
@@ -3134,9 +3062,9 @@
       "tipoKey": "alimentacao fora do lar"
     },
     {
-      "id": "cabana del primo - jardins|2022|alimentacao fora do lar",
-      "empresa": "CABAÑA DEL PRIMO - JARDINS",
-      "empresaKey": "cabana del primo - jardins",
+      "id": "cabana del primo|2022|alimentacao fora do lar",
+      "empresa": "CABAÑA DEL PRIMO",
+      "empresaKey": "cabana del primo",
       "ano": "2022",
       "periodo": "2022",
       "periodoKey": "2022",
@@ -3158,9 +3086,9 @@
       "tipoKey": "alimentacao fora do lar"
     },
     {
-      "id": "cabana del primo - jardins|2023|alimentacao fora do lar",
-      "empresa": "CABAÑA DEL PRIMO - JARDINS",
-      "empresaKey": "cabana del primo - jardins",
+      "id": "cabana del primo|2023|alimentacao fora do lar",
+      "empresa": "CABAÑA DEL PRIMO",
+      "empresaKey": "cabana del primo",
       "ano": "2023",
       "periodo": "2023",
       "periodoKey": "2023",
@@ -3194,9 +3122,9 @@
       "tipoKey": "alimentacao fora do lar"
     },
     {
-      "id": "cabana del primo - rio mar|2016|alimentacao fora do lar",
-      "empresa": "CABAÑA DEL PRIMO - RIO MAR",
-      "empresaKey": "cabana del primo - rio mar",
+      "id": "cabana del primo|2016|alimentacao fora do lar",
+      "empresa": "CABAÑA DEL PRIMO",
+      "empresaKey": "cabana del primo",
       "ano": "2016",
       "periodo": "2016",
       "periodoKey": "2016",
@@ -3254,9 +3182,9 @@
       "tipoKey": "alimentacao fora do lar"
     },
     {
-      "id": "cabana del primo – restaurante y parrilla|2015|alimentacao fora do lar",
-      "empresa": "CABAÑA DEL PRIMO – RESTAURANTE Y PARRILLA",
-      "empresaKey": "cabana del primo – restaurante y parrilla",
+      "id": "cabana del primo|2015|alimentacao fora do lar",
+      "empresa": "CABAÑA DEL PRIMO",
+      "empresaKey": "cabana del primo",
       "ano": "2015",
       "periodo": "2015",
       "periodoKey": "2015",
@@ -3266,9 +3194,9 @@
       "tipoKey": "alimentacao fora do lar"
     },
     {
-      "id": "cabana del primo – restaurante y parrilla|2009 / 2010|alimentacao fora do lar",
-      "empresa": "CABAÑA DEL PRIMO – RESTAURANTE Y PARRILLA",
-      "empresaKey": "cabana del primo – restaurante y parrilla",
+      "id": "cabana del primo|2009 / 2010|alimentacao fora do lar",
+      "empresa": "CABAÑA DEL PRIMO",
+      "empresaKey": "cabana del primo",
       "ano": "2009 / 2010",
       "periodo": "2009 / 2010",
       "periodoKey": "2009 / 2010",
@@ -3278,9 +3206,9 @@
       "tipoKey": "alimentacao fora do lar"
     },
     {
-      "id": "cabana del primo – restaurante y parrilla|2011 / 2012|alimentacao fora do lar",
-      "empresa": "CABAÑA DEL PRIMO – RESTAURANTE Y PARRILLA",
-      "empresaKey": "cabana del primo – restaurante y parrilla",
+      "id": "cabana del primo|2011 / 2012|alimentacao fora do lar",
+      "empresa": "CABAÑA DEL PRIMO",
+      "empresaKey": "cabana del primo",
       "ano": "2011 / 2012",
       "periodo": "2011 / 2012",
       "periodoKey": "2011 / 2012",
@@ -4406,6 +4334,18 @@
       "tipoKey": "alimentacao fora do lar"
     },
     {
+      "id": "cenario ideal hospedagem|2022|hospedagem",
+      "empresa": "CENÁRIO IDEAL HOSPEDAGEM",
+      "empresaKey": "cenario ideal hospedagem",
+      "ano": "2022",
+      "periodo": "2022",
+      "periodoKey": "2022",
+      "periodoInicio": 2022,
+      "periodoFim": 2022,
+      "tipo": "HOSPEDAGEM",
+      "tipoKey": "hospedagem"
+    },
+    {
       "id": "central gourmet|2018|alimentacao fora do lar",
       "empresa": "CENTRAL GOURMET",
       "empresaKey": "central gourmet",
@@ -4634,9 +4574,9 @@
       "tipoKey": "hospedagem"
     },
     {
-      "id": "chales jangadas da caponga|2013|hospedagem",
-      "empresa": "CHALÉS JANGADAS DA CAPONGA",
-      "empresaKey": "chales jangadas da caponga",
+      "id": "hotel jangadas|2013|hospedagem",
+      "empresa": "HOTEL JANGADAS",
+      "empresaKey": "hotel jangadas",
       "ano": "2013",
       "periodo": "2013",
       "periodoKey": "2013",
@@ -4646,9 +4586,9 @@
       "tipoKey": "hospedagem"
     },
     {
-      "id": "chales jangadas da caponga|2021|hospedagem",
-      "empresa": "CHALÉS JANGADAS DA CAPONGA",
-      "empresaKey": "chales jangadas da caponga",
+      "id": "hotel jangadas|2021|hospedagem",
+      "empresa": "HOTEL JANGADAS",
+      "empresaKey": "hotel jangadas",
       "ano": "2021",
       "periodo": "2021",
       "periodoKey": "2021",
@@ -4874,9 +4814,9 @@
       "tipoKey": "alimentacao fora do lar"
     },
     {
-      "id": "churrascaria e pizzaria picanha do jonas - aldeota|2017|alimentacao fora do lar",
-      "empresa": "CHURRASCARIA E PIZZARIA PICANHA DO JONAS - ALDEOTA",
-      "empresaKey": "churrascaria e pizzaria picanha do jonas - aldeota",
+      "id": "churrascaria e pizzaria picanha do jonas|2017|alimentacao fora do lar",
+      "empresa": "CHURRASCARIA E PIZZARIA PICANHA DO JONAS",
+      "empresaKey": "churrascaria e pizzaria picanha do jonas",
       "ano": "2017",
       "periodo": "2017",
       "periodoKey": "2017",
@@ -4910,9 +4850,9 @@
       "tipoKey": "alimentacao fora do lar"
     },
     {
-      "id": "churrascaria e pizzaria picanha do jonas – aldeota|2015|alimentacao fora do lar",
-      "empresa": "CHURRASCARIA E PIZZARIA PICANHA DO JONAS – ALDEOTA",
-      "empresaKey": "churrascaria e pizzaria picanha do jonas – aldeota",
+      "id": "churrascaria e pizzaria picanha do jonas|2015|alimentacao fora do lar",
+      "empresa": "CHURRASCARIA E PIZZARIA PICANHA DO JONAS",
+      "empresaKey": "churrascaria e pizzaria picanha do jonas",
       "ano": "2015",
       "periodo": "2015",
       "periodoKey": "2015",
@@ -4922,9 +4862,9 @@
       "tipoKey": "alimentacao fora do lar"
     },
     {
-      "id": "churrascaria e pizzaria picanha do jonas – aldeota|2014|alimentacao fora do lar",
-      "empresa": "CHURRASCARIA E PIZZARIA PICANHA DO JONAS – ALDEOTA",
-      "empresaKey": "churrascaria e pizzaria picanha do jonas – aldeota",
+      "id": "churrascaria e pizzaria picanha do jonas|2014|alimentacao fora do lar",
+      "empresa": "CHURRASCARIA E PIZZARIA PICANHA DO JONAS",
+      "empresaKey": "churrascaria e pizzaria picanha do jonas",
       "ano": "2014",
       "periodo": "2014",
       "periodoKey": "2014",
@@ -4934,9 +4874,9 @@
       "tipoKey": "alimentacao fora do lar"
     },
     {
-      "id": "churrascaria e pizzaria picanha do jonas – aldeota|2013|alimentacao fora do lar",
-      "empresa": "CHURRASCARIA E PIZZARIA PICANHA DO JONAS – ALDEOTA",
-      "empresaKey": "churrascaria e pizzaria picanha do jonas – aldeota",
+      "id": "churrascaria e pizzaria picanha do jonas|2013|alimentacao fora do lar",
+      "empresa": "CHURRASCARIA E PIZZARIA PICANHA DO JONAS",
+      "empresaKey": "churrascaria e pizzaria picanha do jonas",
       "ano": "2013",
       "periodo": "2013",
       "periodoKey": "2013",
@@ -4946,9 +4886,9 @@
       "tipoKey": "alimentacao fora do lar"
     },
     {
-      "id": "churrascaria e pizzaria picanha do jonas – aldeota|2019|alimentacao fora do lar",
-      "empresa": "CHURRASCARIA E PIZZARIA PICANHA DO JONAS – ALDEOTA",
-      "empresaKey": "churrascaria e pizzaria picanha do jonas – aldeota",
+      "id": "churrascaria e pizzaria picanha do jonas|2019|alimentacao fora do lar",
+      "empresa": "CHURRASCARIA E PIZZARIA PICANHA DO JONAS",
+      "empresaKey": "churrascaria e pizzaria picanha do jonas",
       "ano": "2019",
       "periodo": "2019",
       "periodoKey": "2019",
@@ -4958,9 +4898,9 @@
       "tipoKey": "alimentacao fora do lar"
     },
     {
-      "id": "churrascaria e pizzaria picanha do jonas – aldeota|2023|alimentacao fora do lar",
-      "empresa": "CHURRASCARIA E PIZZARIA PICANHA DO JONAS – ALDEOTA",
-      "empresaKey": "churrascaria e pizzaria picanha do jonas – aldeota",
+      "id": "churrascaria e pizzaria picanha do jonas|2023|alimentacao fora do lar",
+      "empresa": "CHURRASCARIA E PIZZARIA PICANHA DO JONAS",
+      "empresaKey": "churrascaria e pizzaria picanha do jonas",
       "ano": "2023",
       "periodo": "2023",
       "periodoKey": "2023",
@@ -4970,9 +4910,9 @@
       "tipoKey": "alimentacao fora do lar"
     },
     {
-      "id": "churrascaria e pizzaria picanha do jonas – aldeota|2018|alimentacao fora do lar",
-      "empresa": "CHURRASCARIA E PIZZARIA PICANHA DO JONAS – ALDEOTA",
-      "empresaKey": "churrascaria e pizzaria picanha do jonas – aldeota",
+      "id": "churrascaria e pizzaria picanha do jonas|2018|alimentacao fora do lar",
+      "empresa": "CHURRASCARIA E PIZZARIA PICANHA DO JONAS",
+      "empresaKey": "churrascaria e pizzaria picanha do jonas",
       "ano": "2018",
       "periodo": "2018",
       "periodoKey": "2018",
@@ -6963,7 +6903,7 @@
     },
     {
       "id": "delicias das jangadas|2013|alimentacao fora do lar",
-      "empresa": "DELICIAS DAS JANGADAS",
+      "empresa": "DELÍCIAS DAS JANGADAS",
       "empresaKey": "delicias das jangadas",
       "ano": "2013",
       "periodo": "2013",
@@ -6975,7 +6915,7 @@
     },
     {
       "id": "delicias das jangadas|2024|alimentacao fora do lar",
-      "empresa": "DELICIAS DAS JANGADAS",
+      "empresa": "DELÍCIAS DAS JANGADAS",
       "empresaKey": "delicias das jangadas",
       "ano": "2024",
       "periodo": "2024",
@@ -6987,7 +6927,7 @@
     },
     {
       "id": "delicias das jangadas|2014|alimentacao fora do lar",
-      "empresa": "DELICIAS DAS JANGADAS",
+      "empresa": "DELÍCIAS DAS JANGADAS",
       "empresaKey": "delicias das jangadas",
       "ano": "2014",
       "periodo": "2014",
@@ -6999,7 +6939,7 @@
     },
     {
       "id": "delicias das jangadas|2009 / 2010|alimentacao fora do lar",
-      "empresa": "DELICIAS DAS JANGADAS",
+      "empresa": "DELÍCIAS DAS JANGADAS",
       "empresaKey": "delicias das jangadas",
       "ano": "2009 / 2010",
       "periodo": "2009 / 2010",
@@ -7022,9 +6962,9 @@
       "tipoKey": "alimentacao fora do lar"
     },
     {
-      "id": "delicias das jangadas i|2018|alimentacao fora do lar",
-      "empresa": "DELICIAS DAS JANGADAS I",
-      "empresaKey": "delicias das jangadas i",
+      "id": "delicias das jangadas|2018|alimentacao fora do lar",
+      "empresa": "DELÍCIAS DAS JANGADAS",
+      "empresaKey": "delicias das jangadas",
       "ano": "2018",
       "periodo": "2018",
       "periodoKey": "2018",
@@ -7298,18 +7238,6 @@
       "tipoKey": "hospedagem"
     },
     {
-      "id": "divina comida restaurante e pizzaria|2019|alimentacao fora do lar",
-      "empresa": "DIVINA COMIDA RESTAURANTE E PIZZARIA",
-      "empresaKey": "divina comida restaurante e pizzaria",
-      "ano": "2019",
-      "periodo": "2019",
-      "periodoKey": "2019",
-      "periodoInicio": 2019,
-      "periodoFim": 2019,
-      "tipo": "ALIMENTAÇÃO FORA DO LAR",
-      "tipoKey": "alimentacao fora do lar"
-    },
-    {
       "id": "divina comida alimentos|2018|alimentacao fora do lar",
       "empresa": "DIVINA COMIDA ALIMENTOS",
       "empresaKey": "divina comida alimentos",
@@ -7318,6 +7246,18 @@
       "periodoKey": "2018",
       "periodoInicio": 2018,
       "periodoFim": 2018,
+      "tipo": "ALIMENTAÇÃO FORA DO LAR",
+      "tipoKey": "alimentacao fora do lar"
+    },
+    {
+      "id": "divina comida restaurante e pizzaria|2019|alimentacao fora do lar",
+      "empresa": "DIVINA COMIDA RESTAURANTE E PIZZARIA",
+      "empresaKey": "divina comida restaurante e pizzaria",
+      "ano": "2019",
+      "periodo": "2019",
+      "periodoKey": "2019",
+      "periodoInicio": 2019,
+      "periodoFim": 2019,
       "tipo": "ALIMENTAÇÃO FORA DO LAR",
       "tipoKey": "alimentacao fora do lar"
     },
@@ -7358,9 +7298,9 @@
       "tipoKey": "alimentacao fora do lar"
     },
     {
-      "id": "divina comida restaurante e pizzaria - 1|2016|alimentacao fora do lar",
-      "empresa": "DIVINA COMIDA RESTAURANTE E PIZZARIA - 1",
-      "empresaKey": "divina comida restaurante e pizzaria - 1",
+      "id": "divina comida restaurante e pizzaria|2016|alimentacao fora do lar",
+      "empresa": "DIVINA COMIDA RESTAURANTE E PIZZARIA",
+      "empresaKey": "divina comida restaurante e pizzaria",
       "ano": "2016",
       "periodo": "2016",
       "periodoKey": "2016",
@@ -7370,9 +7310,9 @@
       "tipoKey": "alimentacao fora do lar"
     },
     {
-      "id": "divina comida restaurante e pizzaria - 1|2015|alimentacao fora do lar",
-      "empresa": "DIVINA COMIDA RESTAURANTE E PIZZARIA - 1",
-      "empresaKey": "divina comida restaurante e pizzaria - 1",
+      "id": "divina comida restaurante e pizzaria|2015|alimentacao fora do lar",
+      "empresa": "DIVINA COMIDA RESTAURANTE E PIZZARIA",
+      "empresaKey": "divina comida restaurante e pizzaria",
       "ano": "2015",
       "periodo": "2015",
       "periodoKey": "2015",
@@ -7382,9 +7322,9 @@
       "tipoKey": "alimentacao fora do lar"
     },
     {
-      "id": "divina comida restaurante e pizzaria - 1|2013|alimentacao fora do lar",
-      "empresa": "DIVINA COMIDA RESTAURANTE E PIZZARIA - 1",
-      "empresaKey": "divina comida restaurante e pizzaria - 1",
+      "id": "divina comida restaurante e pizzaria|2013|alimentacao fora do lar",
+      "empresa": "DIVINA COMIDA RESTAURANTE E PIZZARIA",
+      "empresaKey": "divina comida restaurante e pizzaria",
       "ano": "2013",
       "periodo": "2013",
       "periodoKey": "2013",
@@ -7418,9 +7358,9 @@
       "tipoKey": "alimentacao fora do lar"
     },
     {
-      "id": "divina comida restaurante e pizzaria - leite albuquerque|2014|alimentacao fora do lar",
-      "empresa": "DIVINA COMIDA RESTAURANTE E PIZZARIA - LEITE ALBUQUERQUE",
-      "empresaKey": "divina comida restaurante e pizzaria - leite albuquerque",
+      "id": "divina comida restaurante e pizzaria|2014|alimentacao fora do lar",
+      "empresa": "DIVINA COMIDA RESTAURANTE E PIZZARIA",
+      "empresaKey": "divina comida restaurante e pizzaria",
       "ano": "2014",
       "periodo": "2014",
       "periodoKey": "2014",
@@ -7430,9 +7370,9 @@
       "tipoKey": "alimentacao fora do lar"
     },
     {
-      "id": "divina comida restaurante e pizzaria -2|2016|alimentacao fora do lar",
-      "empresa": "DIVINA COMIDA RESTAURANTE E PIZZARIA -2",
-      "empresaKey": "divina comida restaurante e pizzaria -2",
+      "id": "divina comida restaurante e pizzaria - 2|2016|alimentacao fora do lar",
+      "empresa": "DIVINA COMIDA RESTAURANTE E PIZZARIA - 2",
+      "empresaKey": "divina comida restaurante e pizzaria - 2",
       "ano": "2016",
       "periodo": "2016",
       "periodoKey": "2016",
@@ -7442,9 +7382,9 @@
       "tipoKey": "alimentacao fora do lar"
     },
     {
-      "id": "divina comida restaurante e pizzaria – 1|2017|alimentacao fora do lar",
-      "empresa": "DIVINA COMIDA RESTAURANTE E PIZZARIA – 1",
-      "empresaKey": "divina comida restaurante e pizzaria – 1",
+      "id": "divina comida restaurante e pizzaria|2017|alimentacao fora do lar",
+      "empresa": "DIVINA COMIDA RESTAURANTE E PIZZARIA",
+      "empresaKey": "divina comida restaurante e pizzaria",
       "ano": "2017",
       "periodo": "2017",
       "periodoKey": "2017",
@@ -7454,14 +7394,26 @@
       "tipoKey": "alimentacao fora do lar"
     },
     {
-      "id": "divina comida restaurante e pizzaria – tiburcio cavalcante|2014|alimentacao fora do lar",
-      "empresa": "DIVINA COMIDA RESTAURANTE E PIZZARIA – TIBURCIO CAVALCANTE",
-      "empresaKey": "divina comida restaurante e pizzaria – tiburcio cavalcante",
-      "ano": "2014",
-      "periodo": "2014",
-      "periodoKey": "2014",
-      "periodoInicio": 2014,
-      "periodoFim": 2014,
+      "id": "divina comida restaurante e pizzaria|2023|alimentacao fora do lar",
+      "empresa": "DIVINA COMIDA RESTAURANTE E PIZZARIA",
+      "empresaKey": "divina comida restaurante e pizzaria",
+      "ano": "2023",
+      "periodo": "2023",
+      "periodoKey": "2023",
+      "periodoInicio": 2023,
+      "periodoFim": 2023,
+      "tipo": "ALIMENTAÇÃO FORA DO LAR",
+      "tipoKey": "alimentacao fora do lar"
+    },
+    {
+      "id": "divina cozinha|2011 / 2012|alimentacao fora do lar",
+      "empresa": "DIVINA COZINHA",
+      "empresaKey": "divina cozinha",
+      "ano": "2011 / 2012",
+      "periodo": "2011 / 2012",
+      "periodoKey": "2011 / 2012",
+      "periodoInicio": 2011,
+      "periodoFim": 2012,
       "tipo": "ALIMENTAÇÃO FORA DO LAR",
       "tipoKey": "alimentacao fora do lar"
     },
@@ -8498,9 +8450,9 @@
       "tipoKey": "alimentacao fora do lar"
     },
     {
-      "id": "esquina malu|2019|alimentacao fora do lar",
-      "empresa": "ESQUINA MALU",
-      "empresaKey": "esquina malu",
+      "id": "casa malu|2019|alimentacao fora do lar",
+      "empresa": "CASA MALU",
+      "empresaKey": "casa malu",
       "ano": "2019",
       "periodo": "2019",
       "periodoKey": "2019",
@@ -8510,9 +8462,9 @@
       "tipoKey": "alimentacao fora do lar"
     },
     {
-      "id": "esquina malu|2018|alimentacao fora do lar",
-      "empresa": "ESQUINA MALU",
-      "empresaKey": "esquina malu",
+      "id": "casa malu|2018|alimentacao fora do lar",
+      "empresa": "CASA MALU",
+      "empresaKey": "casa malu",
       "ano": "2018",
       "periodo": "2018",
       "periodoKey": "2018",
@@ -9038,6 +8990,30 @@
       "tipoKey": "agencia de viagens"
     },
     {
+      "id": "for you receptivo|2024|agencia de viagens",
+      "empresa": "FOR YOU RECEPTIVO",
+      "empresaKey": "for you receptivo",
+      "ano": "2024",
+      "periodo": "2024",
+      "periodoKey": "2024",
+      "periodoInicio": 2024,
+      "periodoFim": 2024,
+      "tipo": "AGÊNCIA DE VIAGENS",
+      "tipoKey": "agencia de viagens"
+    },
+    {
+      "id": "for you receptivo|2022|agencia de viagens",
+      "empresa": "FOR YOU RECEPTIVO",
+      "empresaKey": "for you receptivo",
+      "ano": "2022",
+      "periodo": "2022",
+      "periodoKey": "2022",
+      "periodoInicio": 2022,
+      "periodoFim": 2022,
+      "tipo": "AGÊNCIA DE VIAGENS",
+      "tipoKey": "agencia de viagens"
+    },
+    {
       "id": "forneria santo grano|2019|alimentacao fora do lar",
       "empresa": "FORNERIA SANTO GRANO",
       "empresaKey": "forneria santo grano",
@@ -9106,30 +9082,6 @@
       "periodoKey": "2024",
       "periodoInicio": 2024,
       "periodoFim": 2024,
-      "tipo": "AGÊNCIA DE VIAGENS",
-      "tipoKey": "agencia de viagens"
-    },
-    {
-      "id": "for you receptivo|2024|agencia de viagens",
-      "empresa": "FOR YOU RECEPTIVO",
-      "empresaKey": "for you receptivo",
-      "ano": "2024",
-      "periodo": "2024",
-      "periodoKey": "2024",
-      "periodoInicio": 2024,
-      "periodoFim": 2024,
-      "tipo": "AGÊNCIA DE VIAGENS",
-      "tipoKey": "agencia de viagens"
-    },
-    {
-      "id": "for you receptivo|2022|agencia de viagens",
-      "empresa": "FOR YOU RECEPTIVO",
-      "empresaKey": "for you receptivo",
-      "ano": "2022",
-      "periodo": "2022",
-      "periodoKey": "2022",
-      "periodoInicio": 2022,
-      "periodoFim": 2022,
       "tipo": "AGÊNCIA DE VIAGENS",
       "tipoKey": "agencia de viagens"
     },
@@ -9350,9 +9302,9 @@
       "tipoKey": "alimentacao fora do lar"
     },
     {
-      "id": "geppos restaurante - aldeota|2017|alimentacao fora do lar",
-      "empresa": "GEPPOS RESTAURANTE - ALDEOTA",
-      "empresaKey": "geppos restaurante - aldeota",
+      "id": "geppos restaurante|2017|alimentacao fora do lar",
+      "empresa": "GEPPOS RESTAURANTE",
+      "empresaKey": "geppos restaurante",
       "ano": "2017",
       "periodo": "2017",
       "periodoKey": "2017",
@@ -9374,9 +9326,9 @@
       "tipoKey": "alimentacao fora do lar"
     },
     {
-      "id": "geppos restaurante – aldeota|2015|alimentacao fora do lar",
-      "empresa": "GEPPOS RESTAURANTE – ALDEOTA",
-      "empresaKey": "geppos restaurante – aldeota",
+      "id": "geppos restaurante|2015|alimentacao fora do lar",
+      "empresa": "GEPPOS RESTAURANTE",
+      "empresaKey": "geppos restaurante",
       "ano": "2015",
       "periodo": "2015",
       "periodoKey": "2015",
@@ -9386,9 +9338,9 @@
       "tipoKey": "alimentacao fora do lar"
     },
     {
-      "id": "geppos restaurante – aldeota|2014|alimentacao fora do lar",
-      "empresa": "GEPPOS RESTAURANTE – ALDEOTA",
-      "empresaKey": "geppos restaurante – aldeota",
+      "id": "geppos restaurante|2014|alimentacao fora do lar",
+      "empresa": "GEPPOS RESTAURANTE",
+      "empresaKey": "geppos restaurante",
       "ano": "2014",
       "periodo": "2014",
       "periodoKey": "2014",
@@ -9470,9 +9422,9 @@
       "tipoKey": "alimentacao fora do lar"
     },
     {
-      "id": "geppos restaurante – jardins|2009 / 2010|alimentacao fora do lar",
-      "empresa": "GEPPOS RESTAURANTE – JARDINS",
-      "empresaKey": "geppos restaurante – jardins",
+      "id": "geppos restaurante|2009 / 2010|alimentacao fora do lar",
+      "empresa": "GEPPOS RESTAURANTE",
+      "empresaKey": "geppos restaurante",
       "ano": "2009 / 2010",
       "periodo": "2009 / 2010",
       "periodoKey": "2009 / 2010",
@@ -9482,9 +9434,9 @@
       "tipoKey": "alimentacao fora do lar"
     },
     {
-      "id": "geppos restaurante – jardins|2019|alimentacao fora do lar",
-      "empresa": "GEPPOS RESTAURANTE – JARDINS",
-      "empresaKey": "geppos restaurante – jardins",
+      "id": "geppos restaurante|2019|alimentacao fora do lar",
+      "empresa": "GEPPOS RESTAURANTE",
+      "empresaKey": "geppos restaurante",
       "ano": "2019",
       "periodo": "2019",
       "periodoKey": "2019",
@@ -9494,9 +9446,9 @@
       "tipoKey": "alimentacao fora do lar"
     },
     {
-      "id": "geppos restaurante – jardins|2018|alimentacao fora do lar",
-      "empresa": "GEPPOS RESTAURANTE – JARDINS",
-      "empresaKey": "geppos restaurante – jardins",
+      "id": "geppos restaurante|2018|alimentacao fora do lar",
+      "empresa": "GEPPOS RESTAURANTE",
+      "empresaKey": "geppos restaurante",
       "ano": "2018",
       "periodo": "2018",
       "periodoKey": "2018",
@@ -9506,9 +9458,9 @@
       "tipoKey": "alimentacao fora do lar"
     },
     {
-      "id": "geppos restaurante – jardins|2013|alimentacao fora do lar",
-      "empresa": "GEPPOS RESTAURANTE – JARDINS",
-      "empresaKey": "geppos restaurante – jardins",
+      "id": "geppos restaurante|2013|alimentacao fora do lar",
+      "empresa": "GEPPOS RESTAURANTE",
+      "empresaKey": "geppos restaurante",
       "ano": "2013",
       "periodo": "2013",
       "periodoKey": "2013",
@@ -9518,9 +9470,9 @@
       "tipoKey": "alimentacao fora do lar"
     },
     {
-      "id": "geppos restaurante – jardins|2011 / 2012|alimentacao fora do lar",
-      "empresa": "GEPPOS RESTAURANTE – JARDINS",
-      "empresaKey": "geppos restaurante – jardins",
+      "id": "geppos restaurante|2011 / 2012|alimentacao fora do lar",
+      "empresa": "GEPPOS RESTAURANTE",
+      "empresaKey": "geppos restaurante",
       "ano": "2011 / 2012",
       "periodo": "2011 / 2012",
       "periodoKey": "2011 / 2012",
@@ -9530,9 +9482,9 @@
       "tipoKey": "alimentacao fora do lar"
     },
     {
-      "id": "geppos restaurante italiano|2025|alimentacao fora do lar",
-      "empresa": "GEPPOS RESTAURANTE ITALIANO",
-      "empresaKey": "geppos restaurante italiano",
+      "id": "geppos restaurante|2025|alimentacao fora do lar",
+      "empresa": "GEPPOS RESTAURANTE",
+      "empresaKey": "geppos restaurante",
       "ano": "2025",
       "periodo": "2025",
       "periodoKey": "2025",
@@ -9554,9 +9506,9 @@
       "tipoKey": "alimentacao fora do lar"
     },
     {
-      "id": "geppos restaurante italiano - bm restaurantes ltda|2023|alimentacao fora do lar",
-      "empresa": "GEPPOS RESTAURANTE ITALIANO - BM RESTAURANTES LTDA",
-      "empresaKey": "geppos restaurante italiano - bm restaurantes ltda",
+      "id": "geppos restaurante|2023|alimentacao fora do lar",
+      "empresa": "GEPPOS RESTAURANTE",
+      "empresaKey": "geppos restaurante",
       "ano": "2023",
       "periodo": "2023",
       "periodoKey": "2023",
@@ -10574,9 +10526,9 @@
       "tipoKey": "hospedagem"
     },
     {
-      "id": "hotel jangadas caponga|2023|hospedagem",
-      "empresa": "HOTEL JANGADAS CAPONGA",
-      "empresaKey": "hotel jangadas caponga",
+      "id": "hotel jangadas|2023|hospedagem",
+      "empresa": "HOTEL JANGADAS",
+      "empresaKey": "hotel jangadas",
       "ano": "2023",
       "periodo": "2023",
       "periodoKey": "2023",
@@ -10586,9 +10538,9 @@
       "tipoKey": "hospedagem"
     },
     {
-      "id": "hotel jangadas caponga|2022|hospedagem",
-      "empresa": "HOTEL JANGADAS CAPONGA",
-      "empresaKey": "hotel jangadas caponga",
+      "id": "hotel jangadas|2022|hospedagem",
+      "empresa": "HOTEL JANGADAS",
+      "empresaKey": "hotel jangadas",
       "ano": "2022",
       "periodo": "2022",
       "periodoKey": "2022",
@@ -10598,9 +10550,9 @@
       "tipoKey": "hospedagem"
     },
     {
-      "id": "hotel jangadas caponga|2019|hospedagem",
-      "empresa": "HOTEL JANGADAS CAPONGA",
-      "empresaKey": "hotel jangadas caponga",
+      "id": "hotel jangadas|2019|hospedagem",
+      "empresa": "HOTEL JANGADAS",
+      "empresaKey": "hotel jangadas",
       "ano": "2019",
       "periodo": "2019",
       "periodoKey": "2019",
@@ -10610,9 +10562,9 @@
       "tipoKey": "hospedagem"
     },
     {
-      "id": "hotel jangadas caponga|2018|hospedagem",
-      "empresa": "HOTEL JANGADAS CAPONGA",
-      "empresaKey": "hotel jangadas caponga",
+      "id": "hotel jangadas|2018|hospedagem",
+      "empresa": "HOTEL JANGADAS",
+      "empresaKey": "hotel jangadas",
       "ano": "2018",
       "periodo": "2018",
       "periodoKey": "2018",
@@ -13646,6 +13598,18 @@
       "tipoKey": "alimentacao fora do lar"
     },
     {
+      "id": "letiva hotel centro|2024|hospedagem",
+      "empresa": "LETIVA HOTEL CENTRO",
+      "empresaKey": "letiva hotel centro",
+      "ano": "2024",
+      "periodo": "2024",
+      "periodoKey": "2024",
+      "periodoInicio": 2024,
+      "periodoFim": 2024,
+      "tipo": "HOSPEDAGEM",
+      "tipoKey": "hospedagem"
+    },
+    {
       "id": "letiva hotel sobral|2024|hospedagem",
       "empresa": "LETIVA HOTEL SOBRAL",
       "empresaKey": "letiva hotel sobral",
@@ -13666,18 +13630,6 @@
       "periodoKey": "2023",
       "periodoInicio": 2023,
       "periodoFim": 2023,
-      "tipo": "HOSPEDAGEM",
-      "tipoKey": "hospedagem"
-    },
-    {
-      "id": "letiva hotel centro|2024|hospedagem",
-      "empresa": "LETIVA HOTEL CENTRO",
-      "empresaKey": "letiva hotel centro",
-      "ano": "2024",
-      "periodo": "2024",
-      "periodoKey": "2024",
-      "periodoInicio": 2024,
-      "periodoFim": 2024,
       "tipo": "HOSPEDAGEM",
       "tipoKey": "hospedagem"
     },
@@ -13716,6 +13668,18 @@
       "periodoFim": 2023,
       "tipo": "MANUTENÇÃO DE VEÍCULOS",
       "tipoKey": "manutencao de veiculos"
+    },
+    {
+      "id": "luciana siqueira de amorim|2021|servicos de estetica",
+      "empresa": "LUCIANA SIQUEIRA DE AMORIM",
+      "empresaKey": "luciana siqueira de amorim",
+      "ano": "2021",
+      "periodo": "2021",
+      "periodoKey": "2021",
+      "periodoInicio": 2021,
+      "periodoFim": 2021,
+      "tipo": "SERVIÇOS DE ESTÉTICA",
+      "tipoKey": "servicos de estetica"
     },
     {
       "id": "lugarzinho chef venturelli|2023|alimentacao fora do lar",
@@ -14090,21 +14054,9 @@
       "tipoKey": "hospedagem"
     },
     {
-      "id": "malu self service|2018|alimentacao fora do lar",
-      "empresa": "MALU SELF SERVICE",
-      "empresaKey": "malu self service",
-      "ano": "2018",
-      "periodo": "2018",
-      "periodoKey": "2018",
-      "periodoInicio": 2018,
-      "periodoFim": 2018,
-      "tipo": "ALIMENTAÇÃO FORA DO LAR",
-      "tipoKey": "alimentacao fora do lar"
-    },
-    {
-      "id": "malu self service|2023|alimentacao fora do lar",
-      "empresa": "MALU SELF SERVICE",
-      "empresaKey": "malu self service",
+      "id": "casa malu|2023|alimentacao fora do lar",
+      "empresa": "CASA MALU",
+      "empresaKey": "casa malu",
       "ano": "2023",
       "periodo": "2023",
       "periodoKey": "2023",
@@ -14114,9 +14066,9 @@
       "tipoKey": "alimentacao fora do lar"
     },
     {
-      "id": "malu self service|2022|alimentacao fora do lar",
-      "empresa": "MALU SELF SERVICE",
-      "empresaKey": "malu self service",
+      "id": "casa malu|2022|alimentacao fora do lar",
+      "empresa": "CASA MALU",
+      "empresaKey": "casa malu",
       "ano": "2022",
       "periodo": "2022",
       "periodoKey": "2022",
@@ -14126,21 +14078,9 @@
       "tipoKey": "alimentacao fora do lar"
     },
     {
-      "id": "malu self service|2019|alimentacao fora do lar",
-      "empresa": "MALU SELF SERVICE",
-      "empresaKey": "malu self service",
-      "ano": "2019",
-      "periodo": "2019",
-      "periodoKey": "2019",
-      "periodoInicio": 2019,
-      "periodoFim": 2019,
-      "tipo": "ALIMENTAÇÃO FORA DO LAR",
-      "tipoKey": "alimentacao fora do lar"
-    },
-    {
-      "id": "malu self service|2017|alimentacao fora do lar",
-      "empresa": "MALU SELF SERVICE",
-      "empresaKey": "malu self service",
+      "id": "casa malu|2017|alimentacao fora do lar",
+      "empresa": "CASA MALU",
+      "empresaKey": "casa malu",
       "ano": "2017",
       "periodo": "2017",
       "periodoKey": "2017",
@@ -14150,9 +14090,9 @@
       "tipoKey": "alimentacao fora do lar"
     },
     {
-      "id": "malu self service|2016|alimentacao fora do lar",
-      "empresa": "MALU SELF SERVICE",
-      "empresaKey": "malu self service",
+      "id": "casa malu|2016|alimentacao fora do lar",
+      "empresa": "CASA MALU",
+      "empresaKey": "casa malu",
       "ano": "2016",
       "periodo": "2016",
       "periodoKey": "2016",
@@ -14162,9 +14102,9 @@
       "tipoKey": "alimentacao fora do lar"
     },
     {
-      "id": "malu self service|2014|alimentacao fora do lar",
-      "empresa": "MALU SELF SERVICE",
-      "empresaKey": "malu self service",
+      "id": "casa malu|2014|alimentacao fora do lar",
+      "empresa": "CASA MALU",
+      "empresaKey": "casa malu",
       "ano": "2014",
       "periodo": "2014",
       "periodoKey": "2014",
@@ -14174,9 +14114,9 @@
       "tipoKey": "alimentacao fora do lar"
     },
     {
-      "id": "malu self service|2021|alimentacao fora do lar",
-      "empresa": "MALU SELF SERVICE",
-      "empresaKey": "malu self service",
+      "id": "casa malu|2021|alimentacao fora do lar",
+      "empresa": "CASA MALU",
+      "empresaKey": "casa malu",
       "ano": "2021",
       "periodo": "2021",
       "periodoKey": "2021",
@@ -14186,9 +14126,9 @@
       "tipoKey": "alimentacao fora do lar"
     },
     {
-      "id": "malu self service|2015|alimentacao fora do lar",
-      "empresa": "MALU SELF SERVICE",
-      "empresaKey": "malu self service",
+      "id": "casa malu|2015|alimentacao fora do lar",
+      "empresa": "CASA MALU",
+      "empresaKey": "casa malu",
       "ano": "2015",
       "periodo": "2015",
       "periodoKey": "2015",
@@ -16910,6 +16850,18 @@
       "tipoKey": "alimentacao fora do lar"
     },
     {
+      "id": "pasto & pizzas|2025|alimentacao fora do lar",
+      "empresa": "PASTO & PIZZAS",
+      "empresaKey": "pasto & pizzas",
+      "ano": "2025",
+      "periodo": "2025",
+      "periodoKey": "2025",
+      "periodoInicio": 2025,
+      "periodoFim": 2025,
+      "tipo": "ALIMENTAÇÃO FORA DO LAR",
+      "tipoKey": "alimentacao fora do lar"
+    },
+    {
       "id": "pasto & pizzas|2015|alimentacao fora do lar",
       "empresa": "PASTO & PIZZAS",
       "empresaKey": "pasto & pizzas",
@@ -17042,9 +16994,9 @@
       "tipoKey": "alimentacao fora do lar"
     },
     {
-      "id": "pasto & pizzas - 13 de maio|2017|alimentacao fora do lar",
-      "empresa": "PASTO & PIZZAS - 13 DE MAIO",
-      "empresaKey": "pasto & pizzas - 13 de maio",
+      "id": "pasto & pizzas|2017|alimentacao fora do lar",
+      "empresa": "PASTO & PIZZAS",
+      "empresaKey": "pasto & pizzas",
       "ano": "2017",
       "periodo": "2017",
       "periodoKey": "2017",
@@ -17150,18 +17102,6 @@
       "tipoKey": "alimentacao fora do lar"
     },
     {
-      "id": "pasto & pizzas - emporio marco polo|2023|alimentacao fora do lar",
-      "empresa": "PASTO & PIZZAS - EMPORIO MARCO POLO",
-      "empresaKey": "pasto & pizzas - emporio marco polo",
-      "ano": "2023",
-      "periodo": "2023",
-      "periodoKey": "2023",
-      "periodoInicio": 2023,
-      "periodoFim": 2023,
-      "tipo": "ALIMENTAÇÃO FORA DO LAR",
-      "tipoKey": "alimentacao fora do lar"
-    },
-    {
       "id": "pasto & pizzas - dom luis|2014|alimentacao fora do lar",
       "empresa": "PASTO & PIZZAS - DOM LUIS",
       "empresaKey": "pasto & pizzas - dom luis",
@@ -17170,6 +17110,42 @@
       "periodoKey": "2014",
       "periodoInicio": 2014,
       "periodoFim": 2014,
+      "tipo": "ALIMENTAÇÃO FORA DO LAR",
+      "tipoKey": "alimentacao fora do lar"
+    },
+    {
+      "id": "pasto & pizzas - dom luis|2017|alimentacao fora do lar",
+      "empresa": "PASTO & PIZZAS - DOM LUIS",
+      "empresaKey": "pasto & pizzas - dom luis",
+      "ano": "2017",
+      "periodo": "2017",
+      "periodoKey": "2017",
+      "periodoInicio": 2017,
+      "periodoFim": 2017,
+      "tipo": "ALIMENTAÇÃO FORA DO LAR",
+      "tipoKey": "alimentacao fora do lar"
+    },
+    {
+      "id": "pasto & pizzas - dom luis|2016|alimentacao fora do lar",
+      "empresa": "PASTO & PIZZAS - DOM LUIS",
+      "empresaKey": "pasto & pizzas - dom luis",
+      "ano": "2016",
+      "periodo": "2016",
+      "periodoKey": "2016",
+      "periodoInicio": 2016,
+      "periodoFim": 2016,
+      "tipo": "ALIMENTAÇÃO FORA DO LAR",
+      "tipoKey": "alimentacao fora do lar"
+    },
+    {
+      "id": "pasto & pizzas - emporio marco polo|2023|alimentacao fora do lar",
+      "empresa": "PASTO & PIZZAS - EMPORIO MARCO POLO",
+      "empresaKey": "pasto & pizzas - emporio marco polo",
+      "ano": "2023",
+      "periodo": "2023",
+      "periodoKey": "2023",
+      "periodoInicio": 2023,
+      "periodoFim": 2023,
       "tipo": "ALIMENTAÇÃO FORA DO LAR",
       "tipoKey": "alimentacao fora do lar"
     },
@@ -17230,30 +17206,6 @@
       "periodoKey": "2014",
       "periodoInicio": 2014,
       "periodoFim": 2014,
-      "tipo": "ALIMENTAÇÃO FORA DO LAR",
-      "tipoKey": "alimentacao fora do lar"
-    },
-    {
-      "id": "pasto & pizzas - dom luis|2017|alimentacao fora do lar",
-      "empresa": "PASTO & PIZZAS - DOM LUIS",
-      "empresaKey": "pasto & pizzas - dom luis",
-      "ano": "2017",
-      "periodo": "2017",
-      "periodoKey": "2017",
-      "periodoInicio": 2017,
-      "periodoFim": 2017,
-      "tipo": "ALIMENTAÇÃO FORA DO LAR",
-      "tipoKey": "alimentacao fora do lar"
-    },
-    {
-      "id": "pasto & pizzas - dom luis|2016|alimentacao fora do lar",
-      "empresa": "PASTO & PIZZAS - DOM LUIS",
-      "empresaKey": "pasto & pizzas - dom luis",
-      "ano": "2016",
-      "periodo": "2016",
-      "periodoKey": "2016",
-      "periodoInicio": 2016,
-      "periodoFim": 2016,
       "tipo": "ALIMENTAÇÃO FORA DO LAR",
       "tipoKey": "alimentacao fora do lar"
     },
@@ -18686,9 +18638,9 @@
       "tipoKey": "hospedagem"
     },
     {
-      "id": "pousada jangadas da caponga|2017|hospedagem",
-      "empresa": "POUSADA JANGADAS DA CAPONGA",
-      "empresaKey": "pousada jangadas da caponga",
+      "id": "hotel jangadas|2017|hospedagem",
+      "empresa": "HOTEL JANGADAS",
+      "empresaKey": "hotel jangadas",
       "ano": "2017",
       "periodo": "2017",
       "periodoKey": "2017",
@@ -18698,9 +18650,9 @@
       "tipoKey": "hospedagem"
     },
     {
-      "id": "pousada jangadas da caponga|2016|hospedagem",
-      "empresa": "POUSADA JANGADAS DA CAPONGA",
-      "empresaKey": "pousada jangadas da caponga",
+      "id": "hotel jangadas|2016|hospedagem",
+      "empresa": "HOTEL JANGADAS",
+      "empresaKey": "hotel jangadas",
       "ano": "2016",
       "periodo": "2016",
       "periodoKey": "2016",
@@ -18710,9 +18662,9 @@
       "tipoKey": "hospedagem"
     },
     {
-      "id": "pousada jangadas da caponga|2015|hospedagem",
-      "empresa": "POUSADA JANGADAS DA CAPONGA",
-      "empresaKey": "pousada jangadas da caponga",
+      "id": "hotel jangadas|2015|hospedagem",
+      "empresa": "HOTEL JANGADAS",
+      "empresaKey": "hotel jangadas",
       "ano": "2015",
       "periodo": "2015",
       "periodoKey": "2015",
@@ -18722,9 +18674,9 @@
       "tipoKey": "hospedagem"
     },
     {
-      "id": "pousada jangadas da caponga|2014|hospedagem",
-      "empresa": "POUSADA JANGADAS DA CAPONGA",
-      "empresaKey": "pousada jangadas da caponga",
+      "id": "hotel jangadas|2014|hospedagem",
+      "empresa": "HOTEL JANGADAS",
+      "empresaKey": "hotel jangadas",
       "ano": "2014",
       "periodo": "2014",
       "periodoKey": "2014",
@@ -18734,9 +18686,9 @@
       "tipoKey": "hospedagem"
     },
     {
-      "id": "pousada jangadas da caponga|2011 / 2012|hospedagem",
-      "empresa": "POUSADA JANGADAS DA CAPONGA",
-      "empresaKey": "pousada jangadas da caponga",
+      "id": "hotel jangadas|2011 / 2012|hospedagem",
+      "empresa": "HOTEL JANGADAS",
+      "empresaKey": "hotel jangadas",
       "ano": "2011 / 2012",
       "periodo": "2011 / 2012",
       "periodoKey": "2011 / 2012",
@@ -18746,9 +18698,9 @@
       "tipoKey": "hospedagem"
     },
     {
-      "id": "pousada jangadas da caponga|2009 / 2010|hospedagem",
-      "empresa": "POUSADA JANGADAS DA CAPONGA",
-      "empresaKey": "pousada jangadas da caponga",
+      "id": "hotel jangadas|2009 / 2010|hospedagem",
+      "empresa": "HOTEL JANGADAS",
+      "empresaKey": "hotel jangadas",
       "ano": "2009 / 2010",
       "periodo": "2009 / 2010",
       "periodoKey": "2009 / 2010",
@@ -21122,6 +21074,18 @@
       "tipoKey": "alimentacao fora do lar"
     },
     {
+      "id": "restaurante cantinho do frango sul|2022|alimentacao fora do lar",
+      "empresa": "RESTAURANTE CANTINHO DO FRANGO SUL",
+      "empresaKey": "restaurante cantinho do frango sul",
+      "ano": "2022",
+      "periodo": "2022",
+      "periodoKey": "2022",
+      "periodoInicio": 2022,
+      "periodoFim": 2022,
+      "tipo": "ALIMENTAÇÃO FORA DO LAR",
+      "tipoKey": "alimentacao fora do lar"
+    },
+    {
       "id": "restaurante caravela|2023|alimentacao fora do lar",
       "empresa": "RESTAURANTE CARAVELA",
       "empresaKey": "restaurante caravela",
@@ -21230,9 +21194,9 @@
       "tipoKey": "alimentacao fora do lar"
     },
     {
-      "id": "restaurante delicias das jangadas|2015|alimentacao fora do lar",
-      "empresa": "RESTAURANTE DELÍCIAS DAS JANGADAS",
-      "empresaKey": "restaurante delicias das jangadas",
+      "id": "delicias das jangadas|2015|alimentacao fora do lar",
+      "empresa": "DELÍCIAS DAS JANGADAS",
+      "empresaKey": "delicias das jangadas",
       "ano": "2015",
       "periodo": "2015",
       "periodoKey": "2015",
@@ -21242,9 +21206,9 @@
       "tipoKey": "alimentacao fora do lar"
     },
     {
-      "id": "restaurante delicias das jangadas|2011 / 2012|alimentacao fora do lar",
-      "empresa": "RESTAURANTE DELÍCIAS DAS JANGADAS",
-      "empresaKey": "restaurante delicias das jangadas",
+      "id": "delicias das jangadas|2011 / 2012|alimentacao fora do lar",
+      "empresa": "DELÍCIAS DAS JANGADAS",
+      "empresaKey": "delicias das jangadas",
       "ano": "2011 / 2012",
       "periodo": "2011 / 2012",
       "periodoKey": "2011 / 2012",
@@ -21254,9 +21218,9 @@
       "tipoKey": "alimentacao fora do lar"
     },
     {
-      "id": "restaurante delicias das jangadas|2019|alimentacao fora do lar",
-      "empresa": "RESTAURANTE DELÍCIAS DAS JANGADAS",
-      "empresaKey": "restaurante delicias das jangadas",
+      "id": "delicias das jangadas|2019|alimentacao fora do lar",
+      "empresa": "DELÍCIAS DAS JANGADAS",
+      "empresaKey": "delicias das jangadas",
       "ano": "2019",
       "periodo": "2019",
       "periodoKey": "2019",
@@ -21266,9 +21230,9 @@
       "tipoKey": "alimentacao fora do lar"
     },
     {
-      "id": "restaurante delicias das jangadas|2023|alimentacao fora do lar",
-      "empresa": "RESTAURANTE DELÍCIAS DAS JANGADAS",
-      "empresaKey": "restaurante delicias das jangadas",
+      "id": "delicias das jangadas|2023|alimentacao fora do lar",
+      "empresa": "DELÍCIAS DAS JANGADAS",
+      "empresaKey": "delicias das jangadas",
       "ano": "2023",
       "periodo": "2023",
       "periodoKey": "2023",
@@ -21406,6 +21370,30 @@
       "periodoKey": "2015",
       "periodoInicio": 2015,
       "periodoFim": 2015,
+      "tipo": "ALIMENTAÇÃO FORA DO LAR",
+      "tipoKey": "alimentacao fora do lar"
+    },
+    {
+      "id": "restaurante e pizzaria pau d´arco|2024|alimentacao fora do lar",
+      "empresa": "RESTAURANTE E PIZZARIA PAU D´ARCO",
+      "empresaKey": "restaurante e pizzaria pau d´arco",
+      "ano": "2024",
+      "periodo": "2024",
+      "periodoKey": "2024",
+      "periodoInicio": 2024,
+      "periodoFim": 2024,
+      "tipo": "ALIMENTAÇÃO FORA DO LAR",
+      "tipoKey": "alimentacao fora do lar"
+    },
+    {
+      "id": "restaurante e pizzaria pau d´arco|2017|alimentacao fora do lar",
+      "empresa": "RESTAURANTE E PIZZARIA PAU D´ARCO",
+      "empresaKey": "restaurante e pizzaria pau d´arco",
+      "ano": "2017",
+      "periodo": "2017",
+      "periodoKey": "2017",
+      "periodoInicio": 2017,
+      "periodoFim": 2017,
       "tipo": "ALIMENTAÇÃO FORA DO LAR",
       "tipoKey": "alimentacao fora do lar"
     },
@@ -21770,30 +21758,6 @@
       "tipoKey": "alimentacao fora do lar"
     },
     {
-      "id": "restaurante pau d'arco|2024|alimentacao fora do lar",
-      "empresa": "RESTAURANTE PAU D'ARCO",
-      "empresaKey": "restaurante pau d'arco",
-      "ano": "2024",
-      "periodo": "2024",
-      "periodoKey": "2024",
-      "periodoInicio": 2024,
-      "periodoFim": 2024,
-      "tipo": "ALIMENTAÇÃO FORA DO LAR",
-      "tipoKey": "alimentacao fora do lar"
-    },
-    {
-      "id": "restaurante pau d’arco|2017|alimentacao fora do lar",
-      "empresa": "RESTAURANTE PAU D’ARCO",
-      "empresaKey": "restaurante pau d’arco",
-      "ano": "2017",
-      "periodo": "2017",
-      "periodoKey": "2017",
-      "periodoInicio": 2017,
-      "periodoFim": 2017,
-      "tipo": "ALIMENTAÇÃO FORA DO LAR",
-      "tipoKey": "alimentacao fora do lar"
-    },
-    {
       "id": "restaurante pimenta verde|2017|alimentacao fora do lar",
       "empresa": "RESTAURANTE PIMENTA VERDE",
       "empresaKey": "restaurante pimenta verde",
@@ -22058,9 +22022,9 @@
       "tipoKey": "alimentacao fora do lar"
     },
     {
-      "id": "restaurante taberna da carne|2015|alimentacao fora do lar",
-      "empresa": "RESTAURANTE TABERNA DA CARNE",
-      "empresaKey": "restaurante taberna da carne",
+      "id": "taberna da carne|2015|alimentacao fora do lar",
+      "empresa": "TABERNA DA CARNE",
+      "empresaKey": "taberna da carne",
       "ano": "2015",
       "periodo": "2015",
       "periodoKey": "2015",
@@ -22980,6 +22944,18 @@
       "periodoFim": 2024,
       "tipo": "ALIMENTAÇÃO FORA DO LAR",
       "tipoKey": "alimentacao fora do lar"
+    },
+    {
+      "id": "sos motos (raimundo nonato almeida lessa)|2021|manutencao de veiculos",
+      "empresa": "SOS MOTOS (RAIMUNDO NONATO ALMEIDA LESSA)",
+      "empresaKey": "sos motos (raimundo nonato almeida lessa)",
+      "ano": "2021",
+      "periodo": "2021",
+      "periodoKey": "2021",
+      "periodoInicio": 2021,
+      "periodoFim": 2021,
+      "tipo": "MANUTENÇÃO DE VEÍCULOS",
+      "tipoKey": "manutencao de veiculos"
     },
     {
       "id": "space burger|2019|alimentacao fora do lar",
@@ -25120,97 +25096,7 @@
   ],
   "log": [
     {
-      "line": 2,
-      "action": "corrected",
-      "reason": "trim/canonicalização de campo",
-      "original": {
-        "empresa": " CENÁRIO IDEAL HOSPEDAGEM ",
-        "ano": "2022",
-        "tipo": "HOSPEDAGEM"
-      },
-      "normalized": {
-        "empresa": "CENÁRIO IDEAL HOSPEDAGEM",
-        "periodo": "2022",
-        "tipo": "HOSPEDAGEM"
-      }
-    },
-    {
-      "line": 3,
-      "action": "corrected",
-      "reason": "trim/canonicalização de campo",
-      "original": {
-        "empresa": " DIVINA COZINHA",
-        "ano": "2011 / 2012",
-        "tipo": "ALIMENTAÇÃO FORA DO LAR"
-      },
-      "normalized": {
-        "empresa": "DIVINA COZINHA",
-        "periodo": "2011 / 2012",
-        "tipo": "ALIMENTAÇÃO FORA DO LAR"
-      }
-    },
-    {
-      "line": 4,
-      "action": "corrected",
-      "reason": "trim/canonicalização de campo",
-      "original": {
-        "empresa": " LUCIANA SIQUEIRA DE AMORIM",
-        "ano": "2021",
-        "tipo": "SERVIÇOS DE ESTÉTICA"
-      },
-      "normalized": {
-        "empresa": "LUCIANA SIQUEIRA DE AMORIM",
-        "periodo": "2021",
-        "tipo": "SERVIÇOS DE ESTÉTICA"
-      }
-    },
-    {
-      "line": 5,
-      "action": "corrected",
-      "reason": "trim/canonicalização de campo",
-      "original": {
-        "empresa": " PASTO & PIZZAS",
-        "ano": "2025",
-        "tipo": "ALIMENTAÇÃO FORA DO LAR"
-      },
-      "normalized": {
-        "empresa": "PASTO & PIZZAS",
-        "periodo": "2025",
-        "tipo": "ALIMENTAÇÃO FORA DO LAR"
-      }
-    },
-    {
-      "line": 6,
-      "action": "corrected",
-      "reason": "trim/canonicalização de campo",
-      "original": {
-        "empresa": " RESTAURANTE CANTINHO DO FRANGO SUL",
-        "ano": "2022",
-        "tipo": "ALIMENTAÇÃO FORA DO LAR"
-      },
-      "normalized": {
-        "empresa": "RESTAURANTE CANTINHO DO FRANGO SUL",
-        "periodo": "2022",
-        "tipo": "ALIMENTAÇÃO FORA DO LAR"
-      }
-    },
-    {
-      "line": 7,
-      "action": "corrected",
-      "reason": "trim/canonicalização de campo",
-      "original": {
-        "empresa": " SOS MOTOS (RAIMUNDO NONATO ALMEIDA LESSA)",
-        "ano": "2021",
-        "tipo": "MANUTENÇÃO DE VEÍCULOS"
-      },
-      "normalized": {
-        "empresa": "SOS MOTOS (RAIMUNDO NONATO ALMEIDA LESSA)",
-        "periodo": "2021",
-        "tipo": "MANUTENÇÃO DE VEÍCULOS"
-      }
-    },
-    {
-      "line": 33,
+      "line": 27,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -25222,6 +25108,36 @@
         "empresa": "ACADEMIA TAUROS",
         "periodo": "2022",
         "tipo": "ACADEMIA"
+      }
+    },
+    {
+      "line": 28,
+      "action": "corrected",
+      "reason": "trim/canonicalização de campo",
+      "original": {
+        "empresa": "ACADEMIA TAUROS ",
+        "ano": "2023",
+        "tipo": "ACADEMIA"
+      },
+      "normalized": {
+        "empresa": "ACADEMIA TAUROS",
+        "periodo": "2023",
+        "tipo": "ACADEMIA"
+      }
+    },
+    {
+      "line": 31,
+      "action": "corrected",
+      "reason": "trim/canonicalização de campo",
+      "original": {
+        "empresa": "AFETUR VIAGENS E TURISMO LTDA",
+        "ano": "2024",
+        "tipo": "AGÊNCIA DE VIAGENS "
+      },
+      "normalized": {
+        "empresa": "AFETUR VIAGENS E TURISMO LTDA",
+        "periodo": "2024",
+        "tipo": "AGÊNCIA DE VIAGENS"
       }
     },
     {
@@ -25229,36 +25145,6 @@
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
-        "empresa": "ACADEMIA TAUROS ",
-        "ano": "2023",
-        "tipo": "ACADEMIA"
-      },
-      "normalized": {
-        "empresa": "ACADEMIA TAUROS",
-        "periodo": "2023",
-        "tipo": "ACADEMIA"
-      }
-    },
-    {
-      "line": 37,
-      "action": "corrected",
-      "reason": "trim/canonicalização de campo",
-      "original": {
-        "empresa": "AFETUR VIAGENS E TURISMO LTDA",
-        "ano": "2024",
-        "tipo": "AGÊNCIA DE VIAGENS "
-      },
-      "normalized": {
-        "empresa": "AFETUR VIAGENS E TURISMO LTDA",
-        "periodo": "2024",
-        "tipo": "AGÊNCIA DE VIAGENS"
-      }
-    },
-    {
-      "line": 40,
-      "action": "corrected",
-      "reason": "trim/canonicalização de campo",
-      "original": {
         "empresa": "AGENCIA DE TURISMO ICARAIZINHO ADVENTURE",
         "ano": "2024",
         "tipo": "AGÊNCIA DE VIAGENS "
@@ -25270,7 +25156,7 @@
       }
     },
     {
-      "line": 41,
+      "line": 35,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -25285,7 +25171,7 @@
       }
     },
     {
-      "line": 69,
+      "line": 63,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -25300,7 +25186,7 @@
       }
     },
     {
-      "line": 70,
+      "line": 64,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -25315,7 +25201,7 @@
       }
     },
     {
-      "line": 71,
+      "line": 65,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -25330,7 +25216,7 @@
       }
     },
     {
-      "line": 104,
+      "line": 98,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -25345,7 +25231,7 @@
       }
     },
     {
-      "line": 119,
+      "line": 113,
       "action": "deduplicated",
       "reason": "combinação EMPRESA+PERÍODO+TIPO repetida após normalização",
       "original": {
@@ -25355,7 +25241,7 @@
       }
     },
     {
-      "line": 190,
+      "line": 184,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -25370,7 +25256,7 @@
       }
     },
     {
-      "line": 201,
+      "line": 195,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -25385,7 +25271,7 @@
       }
     },
     {
-      "line": 211,
+      "line": 205,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -25400,7 +25286,7 @@
       }
     },
     {
-      "line": 215,
+      "line": 209,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -25415,7 +25301,7 @@
       }
     },
     {
-      "line": 230,
+      "line": 224,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -25430,17 +25316,7 @@
       }
     },
     {
-      "line": 275,
-      "action": "deduplicated",
-      "reason": "combinação EMPRESA+PERÍODO+TIPO repetida após normalização",
-      "original": {
-        "empresa": "CABAÑA DEL PRIMO – RESTAURANTE Y PARRILLA",
-        "ano": "2015",
-        "tipo": "ALIMENTAÇÃO FORA DO LAR"
-      }
-    },
-    {
-      "line": 330,
+      "line": 323,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -25455,7 +25331,7 @@
       }
     },
     {
-      "line": 336,
+      "line": 329,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -25470,7 +25346,7 @@
       }
     },
     {
-      "line": 345,
+      "line": 338,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -25485,7 +25361,7 @@
       }
     },
     {
-      "line": 346,
+      "line": 339,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -25500,7 +25376,22 @@
       }
     },
     {
-      "line": 374,
+      "line": 364,
+      "action": "corrected",
+      "reason": "trim/canonicalização de campo",
+      "original": {
+        "empresa": "CENÁRIO IDEAL HOSPEDAGEM ",
+        "ano": "2022",
+        "tipo": "HOSPEDAGEM"
+      },
+      "normalized": {
+        "empresa": "CENÁRIO IDEAL HOSPEDAGEM",
+        "periodo": "2022",
+        "tipo": "HOSPEDAGEM"
+      }
+    },
+    {
+      "line": 368,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -25515,7 +25406,7 @@
       }
     },
     {
-      "line": 382,
+      "line": 376,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -25530,7 +25421,7 @@
       }
     },
     {
-      "line": 384,
+      "line": 378,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -25545,7 +25436,7 @@
       }
     },
     {
-      "line": 387,
+      "line": 381,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -25560,7 +25451,7 @@
       }
     },
     {
-      "line": 392,
+      "line": 386,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -25575,7 +25466,7 @@
       }
     },
     {
-      "line": 393,
+      "line": 387,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -25590,7 +25481,7 @@
       }
     },
     {
-      "line": 403,
+      "line": 397,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -25600,6 +25491,21 @@
       },
       "normalized": {
         "empresa": "CHROMOS DIAGNÓSICO POR IMAGEM",
+        "periodo": "2022",
+        "tipo": "SERVIÇOS DE SAÚDE"
+      }
+    },
+    {
+      "line": 461,
+      "action": "corrected",
+      "reason": "trim/canonicalização de campo",
+      "original": {
+        "empresa": "CLINICA BOSS - MEDICINA E IMUNIZAÇÃO",
+        "ano": "2022",
+        "tipo": "SERVIÇOS DE SAUDE"
+      },
+      "normalized": {
+        "empresa": "CLINICA BOSS - MEDICINA E IMUNIZAÇÃO",
         "periodo": "2022",
         "tipo": "SERVIÇOS DE SAÚDE"
       }
@@ -25609,21 +25515,6 @@
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
-        "empresa": "CLINICA BOSS - MEDICINA E IMUNIZAÇÃO",
-        "ano": "2022",
-        "tipo": "SERVIÇOS DE SAUDE"
-      },
-      "normalized": {
-        "empresa": "CLINICA BOSS - MEDICINA E IMUNIZAÇÃO",
-        "periodo": "2022",
-        "tipo": "SERVIÇOS DE SAÚDE"
-      }
-    },
-    {
-      "line": 473,
-      "action": "corrected",
-      "reason": "trim/canonicalização de campo",
-      "original": {
         "empresa": "CLÍNICA DE IMAGEM SOBRAL",
         "ano": "2022",
         "tipo": "SERVIÇOS DE SAUDE"
@@ -25635,7 +25526,7 @@
       }
     },
     {
-      "line": 492,
+      "line": 486,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -25650,7 +25541,7 @@
       }
     },
     {
-      "line": 498,
+      "line": 492,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -25665,7 +25556,7 @@
       }
     },
     {
-      "line": 512,
+      "line": 506,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -25680,7 +25571,7 @@
       }
     },
     {
-      "line": 523,
+      "line": 517,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -25695,7 +25586,7 @@
       }
     },
     {
-      "line": 526,
+      "line": 520,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -25710,7 +25601,7 @@
       }
     },
     {
-      "line": 534,
+      "line": 528,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -25725,7 +25616,7 @@
       }
     },
     {
-      "line": 545,
+      "line": 539,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -25740,7 +25631,7 @@
       }
     },
     {
-      "line": 547,
+      "line": 541,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -25755,7 +25646,7 @@
       }
     },
     {
-      "line": 559,
+      "line": 553,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -25770,7 +25661,7 @@
       }
     },
     {
-      "line": 562,
+      "line": 556,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -25785,7 +25676,7 @@
       }
     },
     {
-      "line": 580,
+      "line": 574,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -25800,7 +25691,7 @@
       }
     },
     {
-      "line": 603,
+      "line": 597,
       "action": "deduplicated",
       "reason": "combinação EMPRESA+PERÍODO+TIPO repetida após normalização",
       "original": {
@@ -25810,7 +25701,7 @@
       }
     },
     {
-      "line": 642,
+      "line": 637,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -25825,7 +25716,7 @@
       }
     },
     {
-      "line": 645,
+      "line": 640,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -25840,7 +25731,7 @@
       }
     },
     {
-      "line": 659,
+      "line": 654,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -25855,7 +25746,7 @@
       }
     },
     {
-      "line": 660,
+      "line": 655,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -25870,7 +25761,7 @@
       }
     },
     {
-      "line": 667,
+      "line": 662,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -25885,7 +25776,7 @@
       }
     },
     {
-      "line": 674,
+      "line": 669,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -25900,7 +25791,7 @@
       }
     },
     {
-      "line": 677,
+      "line": 672,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -25915,7 +25806,7 @@
       }
     },
     {
-      "line": 724,
+      "line": 719,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -25930,7 +25821,7 @@
       }
     },
     {
-      "line": 729,
+      "line": 724,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -25940,27 +25831,27 @@
       },
       "normalized": {
         "empresa": "FARMÁCIA ETHICALL",
+        "periodo": "2022",
+        "tipo": "SERVIÇOS DE SAÚDE"
+      }
+    },
+    {
+      "line": 726,
+      "action": "corrected",
+      "reason": "trim/canonicalização de campo",
+      "original": {
+        "empresa": "FARMÁCIA FÓRMULA VERDE",
+        "ano": "2022",
+        "tipo": "SERVIÇOS DE SAUDE"
+      },
+      "normalized": {
+        "empresa": "FARMÁCIA FÓRMULA VERDE",
         "periodo": "2022",
         "tipo": "SERVIÇOS DE SAÚDE"
       }
     },
     {
       "line": 731,
-      "action": "corrected",
-      "reason": "trim/canonicalização de campo",
-      "original": {
-        "empresa": "FARMÁCIA FÓRMULA VERDE",
-        "ano": "2022",
-        "tipo": "SERVIÇOS DE SAUDE"
-      },
-      "normalized": {
-        "empresa": "FARMÁCIA FÓRMULA VERDE",
-        "periodo": "2022",
-        "tipo": "SERVIÇOS DE SAÚDE"
-      }
-    },
-    {
-      "line": 736,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -25975,7 +25866,7 @@
       }
     },
     {
-      "line": 745,
+      "line": 740,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -25990,7 +25881,7 @@
       }
     },
     {
-      "line": 754,
+      "line": 749,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26005,7 +25896,7 @@
       }
     },
     {
-      "line": 757,
+      "line": 752,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26020,7 +25911,22 @@
       }
     },
     {
-      "line": 762,
+      "line": 753,
+      "action": "corrected",
+      "reason": "trim/canonicalização de campo",
+      "original": {
+        "empresa": "FOR YOU RECEPTIVO",
+        "ano": "2024",
+        "tipo": "AGÊNCIA DE VIAGENS "
+      },
+      "normalized": {
+        "empresa": "FOR YOU RECEPTIVO",
+        "periodo": "2024",
+        "tipo": "AGÊNCIA DE VIAGENS"
+      }
+    },
+    {
+      "line": 759,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26035,7 +25941,7 @@
       }
     },
     {
-      "line": 763,
+      "line": 760,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26050,22 +25956,7 @@
       }
     },
     {
-      "line": 764,
-      "action": "corrected",
-      "reason": "trim/canonicalização de campo",
-      "original": {
-        "empresa": "FOR YOU RECEPTIVO",
-        "ano": "2024",
-        "tipo": "AGÊNCIA DE VIAGENS "
-      },
-      "normalized": {
-        "empresa": "FOR YOU RECEPTIVO",
-        "periodo": "2024",
-        "tipo": "AGÊNCIA DE VIAGENS"
-      }
-    },
-    {
-      "line": 805,
+      "line": 800,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26080,7 +25971,7 @@
       }
     },
     {
-      "line": 806,
+      "line": 801,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26095,7 +25986,7 @@
       }
     },
     {
-      "line": 809,
+      "line": 804,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26110,7 +26001,7 @@
       }
     },
     {
-      "line": 814,
+      "line": 809,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26125,7 +26016,7 @@
       }
     },
     {
-      "line": 818,
+      "line": 813,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26140,7 +26031,7 @@
       }
     },
     {
-      "line": 819,
+      "line": 814,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26155,7 +26046,7 @@
       }
     },
     {
-      "line": 821,
+      "line": 816,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26170,7 +26061,7 @@
       }
     },
     {
-      "line": 850,
+      "line": 845,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26185,7 +26076,7 @@
       }
     },
     {
-      "line": 853,
+      "line": 848,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26200,7 +26091,7 @@
       }
     },
     {
-      "line": 856,
+      "line": 851,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26215,7 +26106,7 @@
       }
     },
     {
-      "line": 876,
+      "line": 871,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26230,7 +26121,7 @@
       }
     },
     {
-      "line": 879,
+      "line": 874,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26245,22 +26136,22 @@
       }
     },
     {
-      "line": 888,
+      "line": 883,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
-        "empresa": "HOTEL JANGADAS CAPONGA",
+        "empresa": "HOTEL JANGADAS",
         "ano": "2019",
         "tipo": "HOSPEDAGEM "
       },
       "normalized": {
-        "empresa": "HOTEL JANGADAS CAPONGA",
+        "empresa": "HOTEL JANGADAS",
         "periodo": "2019",
         "tipo": "HOSPEDAGEM"
       }
     },
     {
-      "line": 892,
+      "line": 887,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26275,7 +26166,7 @@
       }
     },
     {
-      "line": 899,
+      "line": 894,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26290,7 +26181,7 @@
       }
     },
     {
-      "line": 902,
+      "line": 897,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26305,7 +26196,7 @@
       }
     },
     {
-      "line": 904,
+      "line": 899,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26320,7 +26211,7 @@
       }
     },
     {
-      "line": 914,
+      "line": 909,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26335,7 +26226,7 @@
       }
     },
     {
-      "line": 916,
+      "line": 911,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26350,7 +26241,7 @@
       }
     },
     {
-      "line": 930,
+      "line": 925,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26365,7 +26256,7 @@
       }
     },
     {
-      "line": 933,
+      "line": 928,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26380,7 +26271,7 @@
       }
     },
     {
-      "line": 939,
+      "line": 934,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26395,7 +26286,7 @@
       }
     },
     {
-      "line": 942,
+      "line": 937,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26410,7 +26301,7 @@
       }
     },
     {
-      "line": 945,
+      "line": 940,
       "action": "deduplicated",
       "reason": "combinação EMPRESA+PERÍODO+TIPO repetida após normalização",
       "original": {
@@ -26420,7 +26311,7 @@
       }
     },
     {
-      "line": 946,
+      "line": 941,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26435,7 +26326,7 @@
       }
     },
     {
-      "line": 952,
+      "line": 947,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26446,6 +26337,21 @@
       "normalized": {
         "empresa": "HOTEL POUSADA TRÊS CARAVELAS",
         "periodo": "2019",
+        "tipo": "HOSPEDAGEM"
+      }
+    },
+    {
+      "line": 950,
+      "action": "corrected",
+      "reason": "trim/canonicalização de campo",
+      "original": {
+        "empresa": "HOTEL RIBEIRA DOS ICÓS",
+        "ano": "2024",
+        "tipo": "HOSPEDAGEM "
+      },
+      "normalized": {
+        "empresa": "HOTEL RIBEIRA DOS ICÓS",
+        "periodo": "2024",
         "tipo": "HOSPEDAGEM"
       }
     },
@@ -26454,21 +26360,6 @@
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
-        "empresa": "HOTEL RIBEIRA DOS ICÓS",
-        "ano": "2024",
-        "tipo": "HOSPEDAGEM "
-      },
-      "normalized": {
-        "empresa": "HOTEL RIBEIRA DOS ICÓS",
-        "periodo": "2024",
-        "tipo": "HOSPEDAGEM"
-      }
-    },
-    {
-      "line": 960,
-      "action": "corrected",
-      "reason": "trim/canonicalização de campo",
-      "original": {
         "empresa": "HOTEL SONATA DE IRACEMA",
         "ano": "2024",
         "tipo": "HOSPEDAGEM "
@@ -26480,7 +26371,7 @@
       }
     },
     {
-      "line": 963,
+      "line": 958,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26495,7 +26386,7 @@
       }
     },
     {
-      "line": 979,
+      "line": 974,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26510,7 +26401,7 @@
       }
     },
     {
-      "line": 982,
+      "line": 977,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26525,7 +26416,7 @@
       }
     },
     {
-      "line": 995,
+      "line": 990,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26540,7 +26431,7 @@
       }
     },
     {
-      "line": 1003,
+      "line": 998,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26555,7 +26446,7 @@
       }
     },
     {
-      "line": 1005,
+      "line": 1000,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26570,7 +26461,7 @@
       }
     },
     {
-      "line": 1019,
+      "line": 1014,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26585,7 +26476,7 @@
       }
     },
     {
-      "line": 1037,
+      "line": 1032,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26600,7 +26491,7 @@
       }
     },
     {
-      "line": 1038,
+      "line": 1033,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26615,7 +26506,7 @@
       }
     },
     {
-      "line": 1041,
+      "line": 1036,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26630,7 +26521,7 @@
       }
     },
     {
-      "line": 1052,
+      "line": 1047,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26645,7 +26536,7 @@
       }
     },
     {
-      "line": 1054,
+      "line": 1049,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26660,7 +26551,7 @@
       }
     },
     {
-      "line": 1055,
+      "line": 1050,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26675,7 +26566,7 @@
       }
     },
     {
-      "line": 1056,
+      "line": 1051,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26690,7 +26581,7 @@
       }
     },
     {
-      "line": 1057,
+      "line": 1052,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26705,7 +26596,7 @@
       }
     },
     {
-      "line": 1090,
+      "line": 1085,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26720,7 +26611,7 @@
       }
     },
     {
-      "line": 1091,
+      "line": 1086,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26735,7 +26626,7 @@
       }
     },
     {
-      "line": 1110,
+      "line": 1105,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26750,7 +26641,7 @@
       }
     },
     {
-      "line": 1122,
+      "line": 1117,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26765,7 +26656,7 @@
       }
     },
     {
-      "line": 1128,
+      "line": 1123,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26780,7 +26671,7 @@
       }
     },
     {
-      "line": 1137,
+      "line": 1132,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26795,22 +26686,7 @@
       }
     },
     {
-      "line": 1143,
-      "action": "corrected",
-      "reason": "trim/canonicalização de campo",
-      "original": {
-        "empresa": "LETIVA HOTEL SOBRAL",
-        "ano": "2024",
-        "tipo": "HOSPEDAGEM "
-      },
-      "normalized": {
-        "empresa": "LETIVA HOTEL SOBRAL",
-        "periodo": "2024",
-        "tipo": "HOSPEDAGEM"
-      }
-    },
-    {
-      "line": 1145,
+      "line": 1138,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26825,7 +26701,22 @@
       }
     },
     {
-      "line": 1152,
+      "line": 1139,
+      "action": "corrected",
+      "reason": "trim/canonicalização de campo",
+      "original": {
+        "empresa": "LETIVA HOTEL SOBRAL",
+        "ano": "2024",
+        "tipo": "HOSPEDAGEM "
+      },
+      "normalized": {
+        "empresa": "LETIVA HOTEL SOBRAL",
+        "periodo": "2024",
+        "tipo": "HOSPEDAGEM"
+      }
+    },
+    {
+      "line": 1148,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26840,7 +26731,7 @@
       }
     },
     {
-      "line": 1153,
+      "line": 1149,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26855,7 +26746,7 @@
       }
     },
     {
-      "line": 1154,
+      "line": 1150,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26870,7 +26761,7 @@
       }
     },
     {
-      "line": 1172,
+      "line": 1168,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26885,22 +26776,42 @@
       }
     },
     {
+      "line": 1175,
+      "action": "corrected",
+      "reason": "trim/canonicalização de campo",
+      "original": {
+        "empresa": "MAKENA HOTEL",
+        "ano": "2024",
+        "tipo": "HOSPEDAGEM "
+      },
+      "normalized": {
+        "empresa": "MAKENA HOTEL",
+        "periodo": "2024",
+        "tipo": "HOSPEDAGEM"
+      }
+    },
+    {
+      "line": 1176,
+      "action": "deduplicated",
+      "reason": "combinação EMPRESA+PERÍODO+TIPO repetida após normalização",
+      "original": {
+        "empresa": "CASA MALU",
+        "ano": "2018",
+        "tipo": "ALIMENTAÇÃO FORA DO LAR"
+      }
+    },
+    {
       "line": 1179,
-      "action": "corrected",
-      "reason": "trim/canonicalização de campo",
+      "action": "deduplicated",
+      "reason": "combinação EMPRESA+PERÍODO+TIPO repetida após normalização",
       "original": {
-        "empresa": "MAKENA HOTEL",
-        "ano": "2024",
-        "tipo": "HOSPEDAGEM "
-      },
-      "normalized": {
-        "empresa": "MAKENA HOTEL",
-        "periodo": "2024",
-        "tipo": "HOSPEDAGEM"
+        "empresa": "CASA MALU",
+        "ano": "2019",
+        "tipo": "ALIMENTAÇÃO FORA DO LAR"
       }
     },
     {
-      "line": 1192,
+      "line": 1188,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26915,7 +26826,7 @@
       }
     },
     {
-      "line": 1199,
+      "line": 1195,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26930,7 +26841,7 @@
       }
     },
     {
-      "line": 1203,
+      "line": 1199,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26945,7 +26856,7 @@
       }
     },
     {
-      "line": 1218,
+      "line": 1214,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26960,7 +26871,7 @@
       }
     },
     {
-      "line": 1245,
+      "line": 1241,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26975,7 +26886,7 @@
       }
     },
     {
-      "line": 1249,
+      "line": 1245,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -26990,7 +26901,7 @@
       }
     },
     {
-      "line": 1251,
+      "line": 1247,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -27005,7 +26916,7 @@
       }
     },
     {
-      "line": 1274,
+      "line": 1270,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -27020,7 +26931,7 @@
       }
     },
     {
-      "line": 1275,
+      "line": 1271,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -27035,7 +26946,7 @@
       }
     },
     {
-      "line": 1284,
+      "line": 1280,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -27050,7 +26961,7 @@
       }
     },
     {
-      "line": 1285,
+      "line": 1281,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -27065,7 +26976,7 @@
       }
     },
     {
-      "line": 1291,
+      "line": 1287,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -27080,7 +26991,7 @@
       }
     },
     {
-      "line": 1292,
+      "line": 1288,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -27095,7 +27006,7 @@
       }
     },
     {
-      "line": 1304,
+      "line": 1300,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -27110,7 +27021,7 @@
       }
     },
     {
-      "line": 1316,
+      "line": 1312,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -27125,7 +27036,7 @@
       }
     },
     {
-      "line": 1322,
+      "line": 1318,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -27140,7 +27051,7 @@
       }
     },
     {
-      "line": 1350,
+      "line": 1346,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -27155,7 +27066,7 @@
       }
     },
     {
-      "line": 1363,
+      "line": 1359,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -27170,7 +27081,7 @@
       }
     },
     {
-      "line": 1385,
+      "line": 1381,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -27185,7 +27096,7 @@
       }
     },
     {
-      "line": 1407,
+      "line": 1403,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -27200,7 +27111,7 @@
       }
     },
     {
-      "line": 1412,
+      "line": 1408,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -27215,7 +27126,7 @@
       }
     },
     {
-      "line": 1458,
+      "line": 1455,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -27230,7 +27141,7 @@
       }
     },
     {
-      "line": 1465,
+      "line": 1462,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -27245,7 +27156,7 @@
       }
     },
     {
-      "line": 1476,
+      "line": 1473,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -27260,7 +27171,7 @@
       }
     },
     {
-      "line": 1477,
+      "line": 1474,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -27275,7 +27186,7 @@
       }
     },
     {
-      "line": 1485,
+      "line": 1482,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -27290,7 +27201,7 @@
       }
     },
     {
-      "line": 1487,
+      "line": 1484,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -27305,7 +27216,7 @@
       }
     },
     {
-      "line": 1491,
+      "line": 1488,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -27320,7 +27231,7 @@
       }
     },
     {
-      "line": 1493,
+      "line": 1490,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -27335,7 +27246,7 @@
       }
     },
     {
-      "line": 1494,
+      "line": 1491,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -27350,7 +27261,7 @@
       }
     },
     {
-      "line": 1495,
+      "line": 1492,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -27365,7 +27276,7 @@
       }
     },
     {
-      "line": 1496,
+      "line": 1493,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -27380,7 +27291,7 @@
       }
     },
     {
-      "line": 1497,
+      "line": 1494,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -27395,7 +27306,7 @@
       }
     },
     {
-      "line": 1501,
+      "line": 1498,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -27410,7 +27321,7 @@
       }
     },
     {
-      "line": 1503,
+      "line": 1500,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -27421,6 +27332,21 @@
       "normalized": {
         "empresa": "POUSADA CAFÉ BRASIL",
         "periodo": "2025",
+        "tipo": "HOSPEDAGEM"
+      }
+    },
+    {
+      "line": 1502,
+      "action": "corrected",
+      "reason": "trim/canonicalização de campo",
+      "original": {
+        "empresa": "POUSADA CANOÉ BRASIL",
+        "ano": "2024",
+        "tipo": "HOSPEDAGEM "
+      },
+      "normalized": {
+        "empresa": "POUSADA CANOÉ BRASIL",
+        "periodo": "2024",
         "tipo": "HOSPEDAGEM"
       }
     },
@@ -27429,21 +27355,6 @@
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
-        "empresa": "POUSADA CANOÉ BRASIL",
-        "ano": "2024",
-        "tipo": "HOSPEDAGEM "
-      },
-      "normalized": {
-        "empresa": "POUSADA CANOÉ BRASIL",
-        "periodo": "2024",
-        "tipo": "HOSPEDAGEM"
-      }
-    },
-    {
-      "line": 1508,
-      "action": "corrected",
-      "reason": "trim/canonicalização de campo",
-      "original": {
         "empresa": "POUSADA CAPITÃO THOMAZ",
         "ano": "2024",
         "tipo": "HOSPEDAGEM "
@@ -27455,7 +27366,7 @@
       }
     },
     {
-      "line": 1509,
+      "line": 1506,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -27470,7 +27381,7 @@
       }
     },
     {
-      "line": 1510,
+      "line": 1507,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -27481,6 +27392,21 @@
       "normalized": {
         "empresa": "POUSADA CASA DO ANGELO",
         "periodo": "2019",
+        "tipo": "HOSPEDAGEM"
+      }
+    },
+    {
+      "line": 1518,
+      "action": "corrected",
+      "reason": "trim/canonicalização de campo",
+      "original": {
+        "empresa": "POUSADA CATAVENTO HOSPEDAGEM E TRANSPORTE",
+        "ano": "2024",
+        "tipo": "HOSPEDAGEM "
+      },
+      "normalized": {
+        "empresa": "POUSADA CATAVENTO HOSPEDAGEM E TRANSPORTE",
+        "periodo": "2024",
         "tipo": "HOSPEDAGEM"
       }
     },
@@ -27489,13 +27415,43 @@
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
-        "empresa": "POUSADA CATAVENTO HOSPEDAGEM E TRANSPORTE",
+        "empresa": "POUSADA CHEZ LORAN VIP",
+        "ano": "2019",
+        "tipo": "HOSPEDAGEM "
+      },
+      "normalized": {
+        "empresa": "POUSADA CHEZ LORAN VIP",
+        "periodo": "2019",
+        "tipo": "HOSPEDAGEM"
+      }
+    },
+    {
+      "line": 1522,
+      "action": "corrected",
+      "reason": "trim/canonicalização de campo",
+      "original": {
+        "empresa": "POUSADA CHEZ TOI",
         "ano": "2024",
         "tipo": "HOSPEDAGEM "
       },
       "normalized": {
-        "empresa": "POUSADA CATAVENTO HOSPEDAGEM E TRANSPORTE",
+        "empresa": "POUSADA CHEZ TOI",
         "periodo": "2024",
+        "tipo": "HOSPEDAGEM"
+      }
+    },
+    {
+      "line": 1523,
+      "action": "corrected",
+      "reason": "trim/canonicalização de campo",
+      "original": {
+        "empresa": "POUSADA COCO BABAÇU",
+        "ano": "2025",
+        "tipo": "HOSPEDAGEM "
+      },
+      "normalized": {
+        "empresa": "POUSADA COCO BABAÇU",
+        "periodo": "2025",
         "tipo": "HOSPEDAGEM"
       }
     },
@@ -27504,58 +27460,43 @@
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
-        "empresa": "POUSADA CHEZ LORAN VIP",
+        "empresa": "POUSADA DA JOSY",
         "ano": "2019",
         "tipo": "HOSPEDAGEM "
       },
       "normalized": {
-        "empresa": "POUSADA CHEZ LORAN VIP",
+        "empresa": "POUSADA DA JOSY",
         "periodo": "2019",
         "tipo": "HOSPEDAGEM"
       }
     },
     {
-      "line": 1525,
+      "line": 1528,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
-        "empresa": "POUSADA CHEZ TOI",
-        "ano": "2024",
-        "tipo": "HOSPEDAGEM "
-      },
-      "normalized": {
-        "empresa": "POUSADA CHEZ TOI",
-        "periodo": "2024",
-        "tipo": "HOSPEDAGEM"
-      }
-    },
-    {
-      "line": 1526,
-      "action": "corrected",
-      "reason": "trim/canonicalização de campo",
-      "original": {
-        "empresa": "POUSADA COCO BABAÇU",
+        "empresa": "POUSADA DEPRAIABRASIL",
         "ano": "2025",
         "tipo": "HOSPEDAGEM "
       },
       "normalized": {
-        "empresa": "POUSADA COCO BABAÇU",
+        "empresa": "POUSADA DEPRAIABRASIL",
         "periodo": "2025",
         "tipo": "HOSPEDAGEM"
       }
     },
     {
-      "line": 1527,
+      "line": 1530,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
-        "empresa": "POUSADA DA JOSY",
-        "ano": "2019",
+        "empresa": "POUSADA DIANE",
+        "ano": "2025",
         "tipo": "HOSPEDAGEM "
       },
       "normalized": {
-        "empresa": "POUSADA DA JOSY",
-        "periodo": "2019",
+        "empresa": "POUSADA DIANE",
+        "periodo": "2025",
         "tipo": "HOSPEDAGEM"
       }
     },
@@ -27564,36 +27505,6 @@
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
-        "empresa": "POUSADA DEPRAIABRASIL",
-        "ano": "2025",
-        "tipo": "HOSPEDAGEM "
-      },
-      "normalized": {
-        "empresa": "POUSADA DEPRAIABRASIL",
-        "periodo": "2025",
-        "tipo": "HOSPEDAGEM"
-      }
-    },
-    {
-      "line": 1533,
-      "action": "corrected",
-      "reason": "trim/canonicalização de campo",
-      "original": {
-        "empresa": "POUSADA DIANE",
-        "ano": "2025",
-        "tipo": "HOSPEDAGEM "
-      },
-      "normalized": {
-        "empresa": "POUSADA DIANE",
-        "periodo": "2025",
-        "tipo": "HOSPEDAGEM"
-      }
-    },
-    {
-      "line": 1534,
-      "action": "corrected",
-      "reason": "trim/canonicalização de campo",
-      "original": {
         "empresa": "POUSADA DO LAGO",
         "ano": "2025",
         "tipo": "HOSPEDAGEM "
@@ -27605,7 +27516,7 @@
       }
     },
     {
-      "line": 1535,
+      "line": 1532,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -27620,7 +27531,7 @@
       }
     },
     {
-      "line": 1540,
+      "line": 1537,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -27635,7 +27546,7 @@
       }
     },
     {
-      "line": 1541,
+      "line": 1538,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -27650,7 +27561,7 @@
       }
     },
     {
-      "line": 1542,
+      "line": 1539,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -27660,27 +27571,27 @@
       },
       "normalized": {
         "empresa": "POUSADA DOS CAPUCHINHOS",
+        "periodo": "2019",
+        "tipo": "HOSPEDAGEM"
+      }
+    },
+    {
+      "line": 1544,
+      "action": "corrected",
+      "reason": "trim/canonicalização de campo",
+      "original": {
+        "empresa": "POUSADA E RESTAURANTE CARCARÁ",
+        "ano": "2019",
+        "tipo": "HOSPEDAGEM "
+      },
+      "normalized": {
+        "empresa": "POUSADA E RESTAURANTE CARCARÁ",
         "periodo": "2019",
         "tipo": "HOSPEDAGEM"
       }
     },
     {
       "line": 1547,
-      "action": "corrected",
-      "reason": "trim/canonicalização de campo",
-      "original": {
-        "empresa": "POUSADA E RESTAURANTE CARCARÁ",
-        "ano": "2019",
-        "tipo": "HOSPEDAGEM "
-      },
-      "normalized": {
-        "empresa": "POUSADA E RESTAURANTE CARCARÁ",
-        "periodo": "2019",
-        "tipo": "HOSPEDAGEM"
-      }
-    },
-    {
-      "line": 1550,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -27695,7 +27606,7 @@
       }
     },
     {
-      "line": 1555,
+      "line": 1552,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -27710,25 +27621,25 @@
       }
     },
     {
+      "line": 1556,
+      "action": "corrected",
+      "reason": "trim/canonicalização de campo",
+      "original": {
+        "empresa": "POUSADA ICARAIZINHO PRAIA",
+        "ano": "2024",
+        "tipo": "HOSPEDAGEM "
+      },
+      "normalized": {
+        "empresa": "POUSADA ICARAIZINHO PRAIA",
+        "periodo": "2024",
+        "tipo": "HOSPEDAGEM"
+      }
+    },
+    {
       "line": 1559,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
-        "empresa": "POUSADA ICARAIZINHO PRAIA",
-        "ano": "2024",
-        "tipo": "HOSPEDAGEM "
-      },
-      "normalized": {
-        "empresa": "POUSADA ICARAIZINHO PRAIA",
-        "periodo": "2024",
-        "tipo": "HOSPEDAGEM"
-      }
-    },
-    {
-      "line": 1562,
-      "action": "corrected",
-      "reason": "trim/canonicalização de campo",
-      "original": {
         "empresa": "POUSADA JANELAS DO MAR",
         "ano": "2024",
         "tipo": "HOSPEDAGEM "
@@ -27740,7 +27651,7 @@
       }
     },
     {
-      "line": 1570,
+      "line": 1567,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -27755,7 +27666,7 @@
       }
     },
     {
-      "line": 1573,
+      "line": 1570,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -27765,6 +27676,36 @@
       },
       "normalized": {
         "empresa": "POUSADA JERI DUNAS",
+        "periodo": "2024",
+        "tipo": "HOSPEDAGEM"
+      }
+    },
+    {
+      "line": 1571,
+      "action": "corrected",
+      "reason": "trim/canonicalização de campo",
+      "original": {
+        "empresa": "POUSADA JERI DUNAS ",
+        "ano": "2019",
+        "tipo": "HOSPEDAGEM "
+      },
+      "normalized": {
+        "empresa": "POUSADA JERI DUNAS",
+        "periodo": "2019",
+        "tipo": "HOSPEDAGEM"
+      }
+    },
+    {
+      "line": 1572,
+      "action": "corrected",
+      "reason": "trim/canonicalização de campo",
+      "original": {
+        "empresa": "POUSADA JERIBÁ",
+        "ano": "2024",
+        "tipo": "HOSPEDAGEM "
+      },
+      "normalized": {
+        "empresa": "POUSADA JERIBÁ",
         "periodo": "2024",
         "tipo": "HOSPEDAGEM"
       }
@@ -27774,36 +27715,6 @@
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
-        "empresa": "POUSADA JERI DUNAS ",
-        "ano": "2019",
-        "tipo": "HOSPEDAGEM "
-      },
-      "normalized": {
-        "empresa": "POUSADA JERI DUNAS",
-        "periodo": "2019",
-        "tipo": "HOSPEDAGEM"
-      }
-    },
-    {
-      "line": 1575,
-      "action": "corrected",
-      "reason": "trim/canonicalização de campo",
-      "original": {
-        "empresa": "POUSADA JERIBÁ",
-        "ano": "2024",
-        "tipo": "HOSPEDAGEM "
-      },
-      "normalized": {
-        "empresa": "POUSADA JERIBÁ",
-        "periodo": "2024",
-        "tipo": "HOSPEDAGEM"
-      }
-    },
-    {
-      "line": 1577,
-      "action": "corrected",
-      "reason": "trim/canonicalização de campo",
-      "original": {
         "empresa": "POUSADA JERIBÁ",
         "ano": "2019",
         "tipo": "HOSPEDAGEM "
@@ -27815,7 +27726,7 @@
       }
     },
     {
-      "line": 1584,
+      "line": 1581,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -27830,7 +27741,7 @@
       }
     },
     {
-      "line": 1586,
+      "line": 1583,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -27845,7 +27756,7 @@
       }
     },
     {
-      "line": 1587,
+      "line": 1584,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -27855,6 +27766,21 @@
       },
       "normalized": {
         "empresa": "POUSADA LA DOLCE VITA",
+        "periodo": "2024",
+        "tipo": "HOSPEDAGEM"
+      }
+    },
+    {
+      "line": 1587,
+      "action": "corrected",
+      "reason": "trim/canonicalização de campo",
+      "original": {
+        "empresa": "POUSADA LATITUDE",
+        "ano": "2024",
+        "tipo": "HOSPEDAGEM "
+      },
+      "normalized": {
+        "empresa": "POUSADA LATITUDE",
         "periodo": "2024",
         "tipo": "HOSPEDAGEM"
       }
@@ -27865,27 +27791,42 @@
       "reason": "trim/canonicalização de campo",
       "original": {
         "empresa": "POUSADA LATITUDE",
-        "ano": "2024",
-        "tipo": "HOSPEDAGEM "
-      },
-      "normalized": {
-        "empresa": "POUSADA LATITUDE",
-        "periodo": "2024",
-        "tipo": "HOSPEDAGEM"
-      }
-    },
-    {
-      "line": 1593,
-      "action": "corrected",
-      "reason": "trim/canonicalização de campo",
-      "original": {
-        "empresa": "POUSADA LATITUDE",
         "ano": "2019",
         "tipo": "HOSPEDAGEM "
       },
       "normalized": {
         "empresa": "POUSADA LATITUDE",
         "periodo": "2019",
+        "tipo": "HOSPEDAGEM"
+      }
+    },
+    {
+      "line": 1603,
+      "action": "corrected",
+      "reason": "trim/canonicalização de campo",
+      "original": {
+        "empresa": "POUSADA LIRIOS DO CAMPO",
+        "ano": "2024",
+        "tipo": "HOSPEDAGEM "
+      },
+      "normalized": {
+        "empresa": "POUSADA LIRIOS DO CAMPO",
+        "periodo": "2024",
+        "tipo": "HOSPEDAGEM"
+      }
+    },
+    {
+      "line": 1605,
+      "action": "corrected",
+      "reason": "trim/canonicalização de campo",
+      "original": {
+        "empresa": "POUSADA MATUSA",
+        "ano": "2025",
+        "tipo": "HOSPEDAGEM "
+      },
+      "normalized": {
+        "empresa": "POUSADA MATUSA",
+        "periodo": "2025",
         "tipo": "HOSPEDAGEM"
       }
     },
@@ -27894,36 +27835,6 @@
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
-        "empresa": "POUSADA LIRIOS DO CAMPO",
-        "ano": "2024",
-        "tipo": "HOSPEDAGEM "
-      },
-      "normalized": {
-        "empresa": "POUSADA LIRIOS DO CAMPO",
-        "periodo": "2024",
-        "tipo": "HOSPEDAGEM"
-      }
-    },
-    {
-      "line": 1608,
-      "action": "corrected",
-      "reason": "trim/canonicalização de campo",
-      "original": {
-        "empresa": "POUSADA MATUSA",
-        "ano": "2025",
-        "tipo": "HOSPEDAGEM "
-      },
-      "normalized": {
-        "empresa": "POUSADA MATUSA",
-        "periodo": "2025",
-        "tipo": "HOSPEDAGEM"
-      }
-    },
-    {
-      "line": 1609,
-      "action": "corrected",
-      "reason": "trim/canonicalização de campo",
-      "original": {
         "empresa": "POUSADA MEU PARAISO LAGOINHA",
         "ano": "2025",
         "tipo": "HOSPEDAGEM "
@@ -27935,7 +27846,7 @@
       }
     },
     {
-      "line": 1615,
+      "line": 1612,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -27950,7 +27861,7 @@
       }
     },
     {
-      "line": 1624,
+      "line": 1621,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -27965,7 +27876,7 @@
       }
     },
     {
-      "line": 1635,
+      "line": 1632,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -27980,7 +27891,7 @@
       }
     },
     {
-      "line": 1636,
+      "line": 1633,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -27995,7 +27906,7 @@
       }
     },
     {
-      "line": 1649,
+      "line": 1646,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -28010,7 +27921,7 @@
       }
     },
     {
-      "line": 1651,
+      "line": 1648,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -28025,7 +27936,7 @@
       }
     },
     {
-      "line": 1653,
+      "line": 1650,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -28036,6 +27947,21 @@
       "normalized": {
         "empresa": "POUSADA SOLONÓPOLE",
         "periodo": "2019",
+        "tipo": "HOSPEDAGEM"
+      }
+    },
+    {
+      "line": 1655,
+      "action": "corrected",
+      "reason": "trim/canonicalização de campo",
+      "original": {
+        "empresa": "POUSADA TRANQUILANDIA VILLAGE",
+        "ano": "2024",
+        "tipo": "HOSPEDAGEM "
+      },
+      "normalized": {
+        "empresa": "POUSADA TRANQUILANDIA VILLAGE",
+        "periodo": "2024",
         "tipo": "HOSPEDAGEM"
       }
     },
@@ -28044,21 +27970,6 @@
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
-        "empresa": "POUSADA TRANQUILANDIA VILLAGE",
-        "ano": "2024",
-        "tipo": "HOSPEDAGEM "
-      },
-      "normalized": {
-        "empresa": "POUSADA TRANQUILANDIA VILLAGE",
-        "periodo": "2024",
-        "tipo": "HOSPEDAGEM"
-      }
-    },
-    {
-      "line": 1661,
-      "action": "corrected",
-      "reason": "trim/canonicalização de campo",
-      "original": {
         "empresa": "POUSADA VARANDA AMAR",
         "ano": "2024",
         "tipo": "HOSPEDAGEM "
@@ -28070,7 +27981,7 @@
       }
     },
     {
-      "line": 1663,
+      "line": 1660,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -28085,7 +27996,7 @@
       }
     },
     {
-      "line": 1664,
+      "line": 1661,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -28100,7 +28011,7 @@
       }
     },
     {
-      "line": 1669,
+      "line": 1666,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -28115,7 +28026,7 @@
       }
     },
     {
-      "line": 1672,
+      "line": 1669,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -28130,7 +28041,7 @@
       }
     },
     {
-      "line": 1673,
+      "line": 1670,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -28145,7 +28056,7 @@
       }
     },
     {
-      "line": 1675,
+      "line": 1672,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -28160,7 +28071,7 @@
       }
     },
     {
-      "line": 1694,
+      "line": 1691,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -28175,7 +28086,7 @@
       }
     },
     {
-      "line": 1706,
+      "line": 1703,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -28190,7 +28101,7 @@
       }
     },
     {
-      "line": 1715,
+      "line": 1712,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -28205,7 +28116,7 @@
       }
     },
     {
-      "line": 1719,
+      "line": 1716,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -28220,7 +28131,7 @@
       }
     },
     {
-      "line": 1721,
+      "line": 1718,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -28235,7 +28146,7 @@
       }
     },
     {
-      "line": 1722,
+      "line": 1719,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -28250,7 +28161,7 @@
       }
     },
     {
-      "line": 1727,
+      "line": 1724,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -28265,7 +28176,7 @@
       }
     },
     {
-      "line": 1729,
+      "line": 1726,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -28280,7 +28191,7 @@
       }
     },
     {
-      "line": 1767,
+      "line": 1765,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -28295,7 +28206,7 @@
       }
     },
     {
-      "line": 1782,
+      "line": 1780,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -28340,7 +28251,7 @@
       }
     },
     {
-      "line": 1843,
+      "line": 1841,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -28355,7 +28266,7 @@
       }
     },
     {
-      "line": 1873,
+      "line": 1871,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -28370,7 +28281,7 @@
       }
     },
     {
-      "line": 1874,
+      "line": 1872,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -28385,7 +28296,7 @@
       }
     },
     {
-      "line": 1905,
+      "line": 1903,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -28400,7 +28311,7 @@
       }
     },
     {
-      "line": 1967,
+      "line": 1966,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -28415,7 +28326,7 @@
       }
     },
     {
-      "line": 1969,
+      "line": 1968,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -28430,7 +28341,7 @@
       }
     },
     {
-      "line": 1974,
+      "line": 1973,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -28445,7 +28356,7 @@
       }
     },
     {
-      "line": 1975,
+      "line": 1974,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -28460,7 +28371,7 @@
       }
     },
     {
-      "line": 1976,
+      "line": 1975,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -28475,7 +28386,7 @@
       }
     },
     {
-      "line": 1978,
+      "line": 1977,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -28490,25 +28401,25 @@
       }
     },
     {
+      "line": 1978,
+      "action": "corrected",
+      "reason": "trim/canonicalização de campo",
+      "original": {
+        "empresa": "TERRA - AGÊNCIA DE VIAGENS E TURISMO LTDA.",
+        "ano": "2023",
+        "tipo": "AGÊNCIA DE VIAGENS "
+      },
+      "normalized": {
+        "empresa": "TERRA - AGÊNCIA DE VIAGENS E TURISMO LTDA.",
+        "periodo": "2023",
+        "tipo": "AGÊNCIA DE VIAGENS"
+      }
+    },
+    {
       "line": 1979,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
-        "empresa": "TERRA - AGÊNCIA DE VIAGENS E TURISMO LTDA.",
-        "ano": "2023",
-        "tipo": "AGÊNCIA DE VIAGENS "
-      },
-      "normalized": {
-        "empresa": "TERRA - AGÊNCIA DE VIAGENS E TURISMO LTDA.",
-        "periodo": "2023",
-        "tipo": "AGÊNCIA DE VIAGENS"
-      }
-    },
-    {
-      "line": 1980,
-      "action": "corrected",
-      "reason": "trim/canonicalização de campo",
-      "original": {
         "empresa": "TERRA BRAZIL EXPERIENCE",
         "ano": "2023",
         "tipo": "AGÊNCIA DE VIAGENS "
@@ -28520,7 +28431,7 @@
       }
     },
     {
-      "line": 1983,
+      "line": 1982,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -28535,7 +28446,7 @@
       }
     },
     {
-      "line": 1984,
+      "line": 1983,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -28550,7 +28461,7 @@
       }
     },
     {
-      "line": 2002,
+      "line": 2001,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -28565,7 +28476,7 @@
       }
     },
     {
-      "line": 2005,
+      "line": 2004,
       "action": "deduplicated",
       "reason": "combinação EMPRESA+PERÍODO+TIPO repetida após normalização",
       "original": {
@@ -28575,7 +28486,7 @@
       }
     },
     {
-      "line": 2012,
+      "line": 2011,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -28590,7 +28501,7 @@
       }
     },
     {
-      "line": 2025,
+      "line": 2024,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -28605,7 +28516,7 @@
       }
     },
     {
-      "line": 2039,
+      "line": 2038,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -28620,7 +28531,7 @@
       }
     },
     {
-      "line": 2043,
+      "line": 2042,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -28635,7 +28546,7 @@
       }
     },
     {
-      "line": 2044,
+      "line": 2043,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -28650,7 +28561,7 @@
       }
     },
     {
-      "line": 2061,
+      "line": 2060,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -28665,7 +28576,7 @@
       }
     },
     {
-      "line": 2068,
+      "line": 2067,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -28680,7 +28591,7 @@
       }
     },
     {
-      "line": 2069,
+      "line": 2068,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -28695,7 +28606,7 @@
       }
     },
     {
-      "line": 2075,
+      "line": 2074,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -28706,6 +28617,21 @@
       "normalized": {
         "empresa": "VITORINO TURISMO",
         "periodo": "2024",
+        "tipo": "AGÊNCIA DE VIAGENS"
+      }
+    },
+    {
+      "line": 2075,
+      "action": "corrected",
+      "reason": "trim/canonicalização de campo",
+      "original": {
+        "empresa": "VITORINO TURISMO",
+        "ano": "2023",
+        "tipo": "AGÊNCIA DE VIAGENS "
+      },
+      "normalized": {
+        "empresa": "VITORINO TURISMO",
+        "periodo": "2023",
         "tipo": "AGÊNCIA DE VIAGENS"
       }
     },
@@ -28714,21 +28640,6 @@
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
-        "empresa": "VITORINO TURISMO",
-        "ano": "2023",
-        "tipo": "AGÊNCIA DE VIAGENS "
-      },
-      "normalized": {
-        "empresa": "VITORINO TURISMO",
-        "periodo": "2023",
-        "tipo": "AGÊNCIA DE VIAGENS"
-      }
-    },
-    {
-      "line": 2077,
-      "action": "corrected",
-      "reason": "trim/canonicalização de campo",
-      "original": {
         "empresa": "VM TURISMO E VIAGENS LTDA",
         "ano": "2024",
         "tipo": "AGÊNCIA DE VIAGENS "
@@ -28736,6 +28647,21 @@
       "normalized": {
         "empresa": "VM TURISMO E VIAGENS LTDA",
         "periodo": "2024",
+        "tipo": "AGÊNCIA DE VIAGENS"
+      }
+    },
+    {
+      "line": 2083,
+      "action": "corrected",
+      "reason": "trim/canonicalização de campo",
+      "original": {
+        "empresa": "WDR TURISMO",
+        "ano": "2023",
+        "tipo": "AGÊNCIA DE VIAGENS "
+      },
+      "normalized": {
+        "empresa": "WDR TURISMO",
+        "periodo": "2023",
         "tipo": "AGÊNCIA DE VIAGENS"
       }
     },
@@ -28744,21 +28670,6 @@
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
-        "empresa": "WDR TURISMO",
-        "ano": "2023",
-        "tipo": "AGÊNCIA DE VIAGENS "
-      },
-      "normalized": {
-        "empresa": "WDR TURISMO",
-        "periodo": "2023",
-        "tipo": "AGÊNCIA DE VIAGENS"
-      }
-    },
-    {
-      "line": 2085,
-      "action": "corrected",
-      "reason": "trim/canonicalização de campo",
-      "original": {
         "empresa": "WEE TRAVEL",
         "ano": "2024",
         "tipo": "AGÊNCIA DE VIAGENS "
@@ -28770,7 +28681,7 @@
       }
     },
     {
-      "line": 2088,
+      "line": 2087,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -28785,7 +28696,7 @@
       }
     },
     {
-      "line": 2099,
+      "line": 2098,
       "action": "corrected",
       "reason": "trim/canonicalização de campo",
       "original": {
@@ -28800,23 +28711,23 @@
       }
     }
   ],
-  "sourceRows": 2098,
+  "sourceRows": 2097,
   "header": [
     "EMPRESA",
     "ANO",
     "TIPO"
   ],
   "types": [
-    "HOSPEDAGEM",
-    "ALIMENTAÇÃO FORA DO LAR",
-    "SERVIÇOS DE ESTÉTICA",
-    "MANUTENÇÃO DE VEÍCULOS",
     "EMPRESA DE EVENTOS",
+    "ALIMENTAÇÃO FORA DO LAR",
     "LOJAS DE VAREJO",
+    "MANUTENÇÃO DE VEÍCULOS",
     "ACADEMIA",
     "AGÊNCIA DE VIAGENS",
     "SERVIÇOS LABORATORIAIS",
+    "HOSPEDAGEM",
     "SERVIÇOS DE SAÚDE",
-    "COWORKING"
+    "COWORKING",
+    "SERVIÇOS DE ESTÉTICA"
   ]
 }
